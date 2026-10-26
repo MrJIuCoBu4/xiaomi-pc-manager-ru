@@ -1,0 +1,113 @@
+
+/* Xiaomi RU 1.5: scoped text layout fixes for 5.8.1.130 */
+.setting-container--3sxEm .setting-container-nav--u1jda{flex:0 0 9rem;min-width:0;overflow-y:auto}
+.setting-container--3sxEm .setting-container-nav-item--gtt7p{display:flex;align-items:center;box-sizing:border-box;width:calc(100% - .8rem);height:auto;min-height:1.85rem;padding:.35rem .45rem}
+.setting-container--3sxEm .setting-container-nav-item--gtt7p .nav-btn-item__icon--1O_pI{flex:0 0 .9rem;width:.9rem;height:.9rem;margin:0 .45rem 0 .35rem}
+.setting-container--3sxEm .setting-container-nav-item--gtt7p .nav-btn-item__title--zxyYc{flex:1;min-width:0;white-space:normal;word-break:normal;overflow-wrap:break-word;line-height:1rem}
+.setting-container--3sxEm .setting-container-tab--21kAx{flex:1 1 0;min-width:0;width:0}
+.setting-container--3sxEm .setting-container-content--1VEdk{box-sizing:border-box;min-width:0;padding-right:1.4rem;padding-left:1.4rem}
+.about-wrap--105zH .about-operation-area__row--1g7fJ{height:auto;min-height:2.4rem;gap:.7rem;padding:.25rem 0;flex-wrap:wrap}
+.about-wrap--105zH .check-updates--1aL6q{flex-shrink:0}
+.about-wrap--105zH .check-updates--1aL6q .btn--21lKQ{width:auto;min-width:6.2rem;height:auto;min-height:1.6rem;padding:.3rem .65rem;white-space:nowrap;line-height:1rem}
+.about-wrap--105zH .agreement-list--1Ss8m{line-height:1.7rem}
+.about-wrap--105zH .agreement-wrap--kiLFk{white-space:normal;overflow-wrap:break-word;line-height:1.2rem;padding:1rem 0}
+.nav-btn--2KP09{height:auto;min-height:2.6rem}
+.nav-btn__label--1bUdI{box-sizing:border-box;max-width:100%;font-size:.52rem;line-height:.65rem;text-align:center;white-space:normal;word-break:normal;overflow-wrap:break-word;transform:none}
+.side-bar--_cBHu .avatar__text--2sQwx{width:100%;font-size:.52rem;transform:none}
+.device-connect--caKUk{box-sizing:border-box;min-width:0;width:100%;margin:0;padding:0 1.6rem}
+.device-connect--caKUk .device-header--SYoMO{height:auto;min-height:4.2rem;flex-wrap:wrap;gap:.6rem}
+.device-connect--caKUk .device-header--SYoMO .device-header-img--3BMbf{flex-shrink:0;margin-right:.3rem}
+.device-connect--caKUk .device-header--SYoMO .device-header-content--2l2CD{flex:1 1 12rem;min-width:0}
+.device-connect--caKUk .device-header--SYoMO .device-header-title--3IzNt{display:block;font-size:1.1rem;line-height:1.4rem;white-space:normal;overflow-wrap:break-word}
+.device-connect--caKUk .device-header--SYoMO .device-header-samll-title--17e53{white-space:normal;line-height:1.1rem}
+.device-connect--caKUk .device-header-btn--3Aevp{flex-shrink:0;width:auto;height:auto;min-height:1.6rem;margin-left:0;padding:.3rem .65rem;white-space:nowrap}
+.device-connect--caKUk .info-message--GYKM0{box-sizing:border-box;width:100%;height:auto;min-height:1.8rem}
+.device-connect--caKUk .device-content--3Qm4c{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.8rem}
+.device-connect--caKUk .device-content-box--3xdfD{display:flex;flex-direction:column;min-width:0;width:100%;height:auto;min-height:8.6rem;margin:0!important;overflow:hidden}
+.device-connect--caKUk .device-content-box--3xdfD .device-content-head--19t9o{min-width:0;padding:.8rem .8rem .4rem}
+.device-connect--caKUk .device-content-box--3xdfD .device-content-box-title--SgAd0{display:block;font-size:.75rem;line-height:1rem;white-space:normal;overflow-wrap:break-word}
+.device-connect--caKUk .device-content-box--3xdfD .device-content-box-desc--aPFkW{white-space:normal;word-break:normal;overflow-wrap:break-word;line-height:.85rem}
+.device-connect--caKUk .device-content-box--3xdfD .device-content-box-img--BBLaY{flex-shrink:0;align-self:center;max-width:100%;height:4.6rem;margin-top:auto;object-fit:contain}
+@media(max-width:900px){.device-connect--caKUk .device-content--3Qm4c{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.device-connect--caKUk .device-content--3Qm4c{grid-template-columns:minmax(0,1fr)}.setting-container--3sxEm .setting-container-nav--u1jda{flex-basis:7.2rem}}
+
+/* RU 1.5: settings controls and unbroken sidebar words */
+.side-bar--2Dlq5{width:3.8rem}
+.nav-btn--2KP09{width:3.4rem;padding:.3rem .2rem;min-height:2.7rem}
+.nav-btn__label--1bUdI{width:100%;max-width:100%;white-space:nowrap;word-break:normal;overflow-wrap:normal;font-size:.5rem;line-height:.7rem;overflow:hidden;text-overflow:ellipsis;transform:none}
+.side-bar--_cBHu .avatar_unlogin--3Pqe3,.side-bar--_cBHu .avatar--1B9Z0{width:3.4rem}
+.side-bar--_cBHu .avatar__text--2sQwx{width:100%;white-space:nowrap;font-size:.5rem;line-height:.7rem}
+.form-row--12CJA{min-width:0;max-width:100%;gap:.8rem}
+.form-row--12CJA .label--3fiiI{flex:1;min-width:0}
+.form-row--12CJA .label--3fiiI .desc--_kM-t{max-width:100%;overflow-wrap:break-word}
+.form-select-row--FjEBg{min-width:0;max-width:100%;gap:.8rem}
+.form-select-row--FjEBg .form-row-text--29QeF{flex:1;min-width:0}
+.form-select-row--FjEBg .form-row-text--29QeF .form-row-desc--3vfJM{max-width:100%;overflow-wrap:break-word}
+.form-select-row--FjEBg .form-row-button--nAm20{flex:0 0 auto;width:auto;min-width:6.6rem;height:auto;min-height:1.6rem;padding:.3rem .65rem;white-space:nowrap;line-height:1rem}
+.form-select-row--1YoUt{min-width:0;max-width:100%}
+.form-select-row--1YoUt .form-row-select--1Akrl{min-width:8rem;max-width:12rem;flex-shrink:0}
+.form-select-row--1YoUt .rc-select-selection-item{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.setting-container--3sxEm .setting-container-content--1VEdk{overflow-x:hidden}
+.form-select-row--FjEBg{height:auto;min-height:2.8rem;padding:.45rem 0}
+.form-select-row--1YoUt{height:auto;min-height:2.8rem}
+
+/* RU 1.5: responsive support shortcuts */
+.nav--X6JlA{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1rem;box-sizing:border-box;width:100%;max-width:100%;padding:0 .8rem}
+.nav--X6JlA .nav-item--39VIk{min-width:0;width:100%;margin:0;text-align:center}
+.nav--X6JlA .nav-item--39VIk+.nav-item--39VIk{margin-left:0}
+.nav--X6JlA .nav-item--39VIk>div,.nav--X6JlA .nav-item--39VIk>a{min-width:0;width:100%}
+.nav--X6JlA .nav-item-image--1isGv{max-width:100%;margin:0 auto}
+.nav--X6JlA .nav-label--luuEp{box-sizing:border-box;width:100%;max-width:100%;margin-top:.35rem;font-size:.65rem;line-height:.95rem;white-space:normal;word-break:normal;overflow-wrap:break-word}
+@media(max-width:850px){.nav--X6JlA{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* RU 1.5: layouts sized for Russian labels */
+.setting-container-title--2CMyb{display:flex;align-items:center;gap:.2rem;box-sizing:border-box}
+.setting-container-sub--2kaNW{width:auto;flex:none;white-space:nowrap}
+.setting-container-arrow-right--1_6dQ{flex:none;margin:0 .3rem}
+.cards-container--28bB6,.cards-container--35FvU{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.8rem}
+.card--Dg6xw,.card--2vj7a{box-sizing:border-box;width:100%;height:auto;min-height:9.4rem;padding:1.1rem;display:flex;flex-direction:column;align-items:flex-start}
+.title--wUeVK,.title--z6oN2{max-width:100%;font-size:.8rem;line-height:1.1rem;overflow-wrap:break-word}
+.sub-title--NRYLq,.sub-title--2P6YX{max-width:100%;height:auto;white-space:normal;line-height:.85rem;overflow-wrap:break-word}
+.card--Dg6xw .link--1Th2U,.card--2vj7a .link--1Nm_U{position:static;align-self:flex-end;order:-1;margin-bottom:.4rem;max-width:100%;font-size:.55rem}
+.accordion-container--1yw3c .main-container--xzdcf{display:grid;grid-template-columns:1.2rem 5.4rem minmax(0,1fr) .8rem;gap:.6rem;align-items:center}
+.main-title--3Wt-Z{width:auto;margin:0;line-height:1rem;overflow-wrap:break-word}
+.main-info--17Pf2{width:auto;min-width:0;white-space:normal;overflow-wrap:anywhere;line-height:1rem}
+.second-container--3kX8N{margin-left:7.8rem;line-height:1.1rem}
+.tabBar-container--1R6cZ .tab-panel--2swQ9{flex-wrap:wrap;gap:.4rem .7rem}
+.tabBar-container--1R6cZ .tab-panel--2swQ9 span{margin-right:0;font-size:.85rem}
+.setting-container--3sxEm .primaryButton--2pwPH{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;width:max-content;min-width:5.5rem;max-width:100%;height:auto;min-height:1.8rem;padding:.35rem .85rem;font-size:.65rem;line-height:1rem;white-space:nowrap;border-radius:.3rem}
+.setting-container--3sxEm .file-trans-btn--1e1m5,.setting-container--3sxEm .file-trans-btn--2Oy53{width:max-content;height:auto;min-height:1.8rem;padding:.35rem .85rem}
+.osd-container--2fLB5{box-sizing:border-box;max-width:100%;padding:1rem 1.5rem 1.45rem}
+.osd-container--2fLB5 .osd-list-container--ha_6z{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1.2rem;width:100%;max-width:100%}
+.osd-container--2fLB5 .osd-list-container--ha_6z .osd-list-item--DIMNj,.osd-container--2fLB5 .osd-list-container--ha_6z .osd-list-item--DIMNj:nth-child(n){display:grid;grid-template-columns:minmax(0,1fr) auto;gap:.6rem;align-items:center;width:100%;height:auto;min-height:2.8rem;margin:0;padding:.65rem 0}
+.osd-container--2fLB5 .osd-list-container--ha_6z .osd-list-item--DIMNj span{min-width:0;white-space:normal;overflow-wrap:break-word;font-size:.65rem;line-height:.95rem;color:#333}
+.osd-container--2fLB5 .osd-list-container--ha_6z .osd-list-item--DIMNj img{display:block;max-width:100%;height:1.4rem;object-fit:contain}
+@media(max-width:800px){.cards-container--28bB6,.cards-container--35FvU{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.osd-container--2fLB5 .osd-list-container--ha_6z{grid-template-columns:minmax(0,1fr)}}
+
+/* RU 1.5: trailing text spaces collapse between flex items; use one-space visual separation. */
+.info-item--1jLey .info-title--1ZAli{margin-inline-end:.25em}
+
+/* RU 1.5: compact tools grid, stable icon and action positions */
+.tools-box-wrap--OU0oj{box-sizing:border-box;height:100%;padding:1.2rem 2rem;overflow-y:auto;overflow-x:hidden}
+.tools-box-wrap--OU0oj h1{margin:0 0 .25rem;font-size:1.3rem;line-height:1.6rem}
+.tools-box-wrap--OU0oj .tip--1DJXE{font-size:.65rem;line-height:.9rem}
+.tools-box-wrap--OU0oj .cards-container--28bB6,.tools-box-wrap--OU0oj .cards-container--35FvU{margin-top:.8rem;gap:.6rem;grid-template-columns:repeat(3,minmax(0,1fr))}
+.tools-box-wrap--OU0oj .card--Dg6xw{position:relative;box-sizing:border-box;width:100%;height:auto;min-height:6.8rem;padding:2.7rem .9rem .8rem;display:flex;flex-direction:column;align-items:flex-start}
+.tools-box-wrap--OU0oj .card--Dg6xw>.icon--3ASFB{position:absolute;top:.85rem;left:.9rem;width:1.4rem;height:1.4rem;margin:0}
+.tools-box-wrap--OU0oj .card--Dg6xw .link--1Th2U{position:absolute;top:.85rem;right:.8rem;max-width:calc(100% - 3.3rem);margin:0;order:0;font-size:.52rem;line-height:.8rem;text-align:right}
+.tools-box-wrap--OU0oj .card--Dg6xw .title--wUeVK{margin:0 0 .2rem;font-size:.75rem;line-height:1rem}
+.tools-box-wrap--OU0oj .card--Dg6xw .sub-title--NRYLq{margin:0;font-size:.56rem;line-height:.8rem;white-space:normal}
+.tools-box-wrap--OU0oj .last-time--sFwbo{display:block;margin-top:.15rem;font-size:.5rem;line-height:.75rem}
+.tools-box-wrap--OU0oj a.url--zFe6B .to-official--oI0I-{font-size:.52rem;line-height:.8rem}
+@media(max-width:650px){.tools-box-wrap--OU0oj{padding:1rem}.tools-box-wrap--OU0oj .cards-container--28bB6,.tools-box-wrap--OU0oj .cards-container--35FvU{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* RU 1.5: consistent breathing room between tool icons and headings. */
+.tools-box-wrap--OU0oj .card--Dg6xw .title--wUeVK{margin-top:.55rem}
+
+/* RU 1.5: cleanup result header and action button */
+.cleanup-header--T1BhP .summary-wrap--qxSEQ{gap:1rem;align-items:center}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp{flex:1;min-width:0}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp .main-title--3ddUp{font-size:1rem;line-height:1.35rem;overflow-wrap:break-word}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp .sub-tip-info--Pdh1O{font-size:.65rem;line-height:1rem}
+.cleanup-header--T1BhP .btn--1xn9E{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;flex-shrink:0;width:auto;min-width:5.4rem;height:auto;min-height:2rem;padding:.4rem 1rem;white-space:nowrap;line-height:1.1rem}

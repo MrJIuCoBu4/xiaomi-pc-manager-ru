@@ -1,0 +1,8230 @@
+[
+  {
+    "name": "DisFre120_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre120_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre120_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre120_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre120_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre120_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre120_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre120_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre120_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre120_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre120_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre120_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre120_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre120_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre120_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre120_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre120_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre120_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre120_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre120_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre120_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre120_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre120_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre120_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre120_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre120_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre120_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre120_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre120_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre120_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre120_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre120_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre120_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre120_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre144_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre144_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre144_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre144_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre144_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre144_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre144_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre144_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre144_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre144_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre144_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre144_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre144_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre144_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre144_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre144_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre144_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre144_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre144_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre144_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre144_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre144_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre144_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre144_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre144_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre144_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre144_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre144_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre144_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre144_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre144_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre144_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre144_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre144_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre165_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre165_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre165_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre165_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre165_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre165_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre165_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre165_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre165_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre165_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre165_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre165_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre165_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre165_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre165_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre165_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre165_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre165_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre165_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre165_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre165_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre165_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre165_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre165_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre165_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre165_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre165_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre165_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre165_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre165_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre165_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre165_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre165_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre165_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre240_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre240_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre240_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre240_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre240_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre240_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre240_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre240_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre240_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre240_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre240_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre240_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre240_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre240_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre240_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre240_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre240_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre240_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre240_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre240_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre240_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre240_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre240_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre240_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre240_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre240_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre240_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre240_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre240_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre240_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre240_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre240_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre240_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre240_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre48_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre48_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre48_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre48_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre48_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre48_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre48_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre48_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre48_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre48_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre48_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre48_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre48_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre48_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre48_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre48_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre48_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre48_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre48_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre48_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre48_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre48_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre48_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre48_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre48_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre48_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre48_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre48_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre48_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre48_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre48_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre48_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre48_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre48_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre60_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre60_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre60_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre60_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre60_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre60_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre60_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre60_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre60_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre60_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre60_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre60_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre60_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre60_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre60_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre60_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre60_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre60_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre60_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre60_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre60_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre60_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre60_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre60_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre60_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre60_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre60_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre60_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre60_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre60_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre60_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre60_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre60_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre60_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre72_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre72_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre72_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre72_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre72_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre72_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre72_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre72_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre72_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre72_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre72_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre72_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre72_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre72_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre72_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre72_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre72_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre72_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre72_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre72_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre72_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre72_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre72_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre72_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre72_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre72_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre72_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre72_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre72_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre72_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre72_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre72_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre72_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre72_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre90_Dark.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre90_Dark@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre90_Dark@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre90_Dark@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre90_Dark@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre90_Dark@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre90_Dark@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre90_Dark@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre90_Dark@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre90_Dark@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre90_Dark@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre90_Dark@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre90_Dark@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre90_Dark@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre90_Dark@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre90_Dark@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre90_Dark@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "DisFre90_Light.png",
+    "russian": "Гц",
+    "box": [
+      8,
+      104,
+      152,
+      145
+    ],
+    "fontPixels": 18.0
+  },
+  {
+    "name": "DisFre90_Light@125.png",
+    "russian": "Гц",
+    "box": [
+      10,
+      130,
+      190,
+      181
+    ],
+    "fontPixels": 22.5
+  },
+  {
+    "name": "DisFre90_Light@150.png",
+    "russian": "Гц",
+    "box": [
+      12,
+      156,
+      228,
+      218
+    ],
+    "fontPixels": 27.0
+  },
+  {
+    "name": "DisFre90_Light@175.png",
+    "russian": "Гц",
+    "box": [
+      14,
+      182,
+      266,
+      254
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "DisFre90_Light@200.png",
+    "russian": "Гц",
+    "box": [
+      16,
+      208,
+      304,
+      290
+    ],
+    "fontPixels": 36.0
+  },
+  {
+    "name": "DisFre90_Light@225.png",
+    "russian": "Гц",
+    "box": [
+      18,
+      234,
+      342,
+      326
+    ],
+    "fontPixels": 40.5
+  },
+  {
+    "name": "DisFre90_Light@250.png",
+    "russian": "Гц",
+    "box": [
+      20,
+      260,
+      380,
+      362
+    ],
+    "fontPixels": 45.0
+  },
+  {
+    "name": "DisFre90_Light@275.png",
+    "russian": "Гц",
+    "box": [
+      22,
+      286,
+      418,
+      399
+    ],
+    "fontPixels": 49.5
+  },
+  {
+    "name": "DisFre90_Light@300.png",
+    "russian": "Гц",
+    "box": [
+      24,
+      312,
+      456,
+      435
+    ],
+    "fontPixels": 54.0
+  },
+  {
+    "name": "DisFre90_Light@325.png",
+    "russian": "Гц",
+    "box": [
+      26,
+      338,
+      494,
+      471
+    ],
+    "fontPixels": 58.5
+  },
+  {
+    "name": "DisFre90_Light@350.png",
+    "russian": "Гц",
+    "box": [
+      28,
+      364,
+      532,
+      508
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "DisFre90_Light@375.png",
+    "russian": "Гц",
+    "box": [
+      30,
+      390,
+      570,
+      544
+    ],
+    "fontPixels": 67.5
+  },
+  {
+    "name": "DisFre90_Light@400.png",
+    "russian": "Гц",
+    "box": [
+      32,
+      416,
+      608,
+      580
+    ],
+    "fontPixels": 72.0
+  },
+  {
+    "name": "DisFre90_Light@425.png",
+    "russian": "Гц",
+    "box": [
+      34,
+      442,
+      646,
+      616
+    ],
+    "fontPixels": 76.5
+  },
+  {
+    "name": "DisFre90_Light@450.png",
+    "russian": "Гц",
+    "box": [
+      36,
+      468,
+      684,
+      652
+    ],
+    "fontPixels": 81.0
+  },
+  {
+    "name": "DisFre90_Light@475.png",
+    "russian": "Гц",
+    "box": [
+      38,
+      494,
+      722,
+      689
+    ],
+    "fontPixels": 85.5
+  },
+  {
+    "name": "DisFre90_Light@500.png",
+    "russian": "Гц",
+    "box": [
+      40,
+      520,
+      760,
+      725
+    ],
+    "fontPixels": 90.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark.png",
+    "russian": "Авто",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@125.png",
+    "russian": "Авто",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@150.png",
+    "russian": "Авто",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@175.png",
+    "russian": "Авто",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@200.png",
+    "russian": "Авто",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@225.png",
+    "russian": "Авто",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@250.png",
+    "russian": "Авто",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@275.png",
+    "russian": "Авто",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@300.png",
+    "russian": "Авто",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@325.png",
+    "russian": "Авто",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@350.png",
+    "russian": "Авто",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@375.png",
+    "russian": "Авто",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@400.png",
+    "russian": "Авто",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@425.png",
+    "russian": "Авто",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@450.png",
+    "russian": "Авто",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@475.png",
+    "russian": "Авто",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "KeyboardLightAuto_Dark@500.png",
+    "russian": "Авто",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light.png",
+    "russian": "Авто",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@125.png",
+    "russian": "Авто",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@150.png",
+    "russian": "Авто",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@175.png",
+    "russian": "Авто",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@200.png",
+    "russian": "Авто",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@225.png",
+    "russian": "Авто",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@250.png",
+    "russian": "Авто",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@275.png",
+    "russian": "Авто",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@300.png",
+    "russian": "Авто",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@325.png",
+    "russian": "Авто",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@350.png",
+    "russian": "Авто",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@375.png",
+    "russian": "Авто",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@400.png",
+    "russian": "Авто",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@425.png",
+    "russian": "Авто",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@450.png",
+    "russian": "Авто",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "KeyboardLightAuto_Light@475.png",
+    "russian": "Авто",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "KeyboardLightAuto_Light@500.png",
+    "russian": "Авто",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "MuteOff_Dark.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "MuteOff_Dark@125.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "MuteOff_Dark@150.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "MuteOff_Dark@175.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "MuteOff_Dark@200.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "MuteOff_Dark@225.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "MuteOff_Dark@250.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "MuteOff_Dark@275.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "MuteOff_Dark@300.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "MuteOff_Dark@325.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "MuteOff_Dark@350.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "MuteOff_Dark@375.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "MuteOff_Dark@400.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "MuteOff_Dark@425.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "MuteOff_Dark@450.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "MuteOff_Dark@475.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "MuteOff_Dark@500.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "MuteOff_Light.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "MuteOff_Light@125.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "MuteOff_Light@150.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "MuteOff_Light@175.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "MuteOff_Light@200.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "MuteOff_Light@225.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "MuteOff_Light@250.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "MuteOff_Light@275.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "MuteOff_Light@300.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "MuteOff_Light@325.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "MuteOff_Light@350.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "MuteOff_Light@375.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "MuteOff_Light@400.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "MuteOff_Light@425.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "MuteOff_Light@450.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "MuteOff_Light@475.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "MuteOff_Light@500.png",
+    "russian": "Микрофон вкл.",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "MuteOn_Dark.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "MuteOn_Dark@125.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "MuteOn_Dark@150.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "MuteOn_Dark@175.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "MuteOn_Dark@200.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "MuteOn_Dark@225.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "MuteOn_Dark@250.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "MuteOn_Dark@275.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "MuteOn_Dark@300.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "MuteOn_Dark@325.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "MuteOn_Dark@350.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "MuteOn_Dark@375.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "MuteOn_Dark@400.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "MuteOn_Dark@425.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "MuteOn_Dark@450.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "MuteOn_Dark@475.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "MuteOn_Dark@500.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "MuteOn_Light.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "MuteOn_Light@125.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "MuteOn_Light@150.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "MuteOn_Light@175.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "MuteOn_Light@200.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "MuteOn_Light@225.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "MuteOn_Light@250.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "MuteOn_Light@275.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "MuteOn_Light@300.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "MuteOn_Light@325.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "MuteOn_Light@350.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "MuteOn_Light@375.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "MuteOn_Light@400.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "MuteOn_Light@425.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "MuteOn_Light@450.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "MuteOn_Light@475.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "MuteOn_Light@500.png",
+    "russian": "Микрофон выкл.",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark.png",
+    "russian": "Умный режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@125.png",
+    "russian": "Умный режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@150.png",
+    "russian": "Умный режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@175.png",
+    "russian": "Умный режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@200.png",
+    "russian": "Умный режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@225.png",
+    "russian": "Умный режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@250.png",
+    "russian": "Умный режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@275.png",
+    "russian": "Умный режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@300.png",
+    "russian": "Умный режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@325.png",
+    "russian": "Умный режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@350.png",
+    "russian": "Умный режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@375.png",
+    "russian": "Умный режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@400.png",
+    "russian": "Умный режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@425.png",
+    "russian": "Умный режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@450.png",
+    "russian": "Умный режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "NewIntelligentMode_Dark@475.png",
+    "russian": "Умный режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "NewIntelligentMode_Dark@500.png",
+    "russian": "Умный режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "NewIntelligentMode_Light.png",
+    "russian": "Умный режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@125.png",
+    "russian": "Умный режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@150.png",
+    "russian": "Умный режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@175.png",
+    "russian": "Умный режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@200.png",
+    "russian": "Умный режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@225.png",
+    "russian": "Умный режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@250.png",
+    "russian": "Умный режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@275.png",
+    "russian": "Умный режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@300.png",
+    "russian": "Умный режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@325.png",
+    "russian": "Умный режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@350.png",
+    "russian": "Умный режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@375.png",
+    "russian": "Умный режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@400.png",
+    "russian": "Умный режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@425.png",
+    "russian": "Умный режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@450.png",
+    "russian": "Умный режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "NewIntelligentMode_Light@475.png",
+    "russian": "Умный режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "NewIntelligentMode_Light@500.png",
+    "russian": "Умный режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark.png",
+    "russian": "Экономия заряда",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@125.png",
+    "russian": "Экономия заряда",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@150.png",
+    "russian": "Экономия заряда",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@175.png",
+    "russian": "Экономия заряда",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@200.png",
+    "russian": "Экономия заряда",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@225.png",
+    "russian": "Экономия заряда",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@250.png",
+    "russian": "Экономия заряда",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@275.png",
+    "russian": "Экономия заряда",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@300.png",
+    "russian": "Экономия заряда",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@325.png",
+    "russian": "Экономия заряда",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@350.png",
+    "russian": "Экономия заряда",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@375.png",
+    "russian": "Экономия заряда",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@400.png",
+    "russian": "Экономия заряда",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@425.png",
+    "russian": "Экономия заряда",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@450.png",
+    "russian": "Экономия заряда",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@475.png",
+    "russian": "Экономия заряда",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "NewLongBatteryMode_Dark@500.png",
+    "russian": "Экономия заряда",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light.png",
+    "russian": "Экономия заряда",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@125.png",
+    "russian": "Экономия заряда",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@150.png",
+    "russian": "Экономия заряда",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@175.png",
+    "russian": "Экономия заряда",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@200.png",
+    "russian": "Экономия заряда",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@225.png",
+    "russian": "Экономия заряда",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@250.png",
+    "russian": "Экономия заряда",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@275.png",
+    "russian": "Экономия заряда",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@300.png",
+    "russian": "Экономия заряда",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@325.png",
+    "russian": "Экономия заряда",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@350.png",
+    "russian": "Экономия заряда",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@375.png",
+    "russian": "Экономия заряда",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@400.png",
+    "russian": "Экономия заряда",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@425.png",
+    "russian": "Экономия заряда",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@450.png",
+    "russian": "Экономия заряда",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "NewLongBatteryMode_Light@475.png",
+    "russian": "Экономия заряда",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "NewLongBatteryMode_Light@500.png",
+    "russian": "Экономия заряда",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadBalance_Dark.png",
+    "russian": "Баланс",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@125.png",
+    "russian": "Баланс",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@150.png",
+    "russian": "Баланс",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@175.png",
+    "russian": "Баланс",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@200.png",
+    "russian": "Баланс",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@225.png",
+    "russian": "Баланс",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@250.png",
+    "russian": "Баланс",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@275.png",
+    "russian": "Баланс",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@300.png",
+    "russian": "Баланс",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@325.png",
+    "russian": "Баланс",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@350.png",
+    "russian": "Баланс",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@375.png",
+    "russian": "Баланс",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@400.png",
+    "russian": "Баланс",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@425.png",
+    "russian": "Баланс",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@450.png",
+    "russian": "Баланс",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadBalance_Dark@475.png",
+    "russian": "Баланс",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadBalance_Dark@500.png",
+    "russian": "Баланс",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark.png",
+    "russian": "Баланс",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@125.png",
+    "russian": "Баланс",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@150.png",
+    "russian": "Баланс",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@175.png",
+    "russian": "Баланс",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@200.png",
+    "russian": "Баланс",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@225.png",
+    "russian": "Баланс",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@250.png",
+    "russian": "Баланс",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@275.png",
+    "russian": "Баланс",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@300.png",
+    "russian": "Баланс",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@325.png",
+    "russian": "Баланс",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@350.png",
+    "russian": "Баланс",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@375.png",
+    "russian": "Баланс",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@400.png",
+    "russian": "Баланс",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@425.png",
+    "russian": "Баланс",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@450.png",
+    "russian": "Баланс",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@475.png",
+    "russian": "Баланс",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadBalance_En_Dark@500.png",
+    "russian": "Баланс",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light.png",
+    "russian": "Баланс",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@125.png",
+    "russian": "Баланс",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@150.png",
+    "russian": "Баланс",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@175.png",
+    "russian": "Баланс",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@200.png",
+    "russian": "Баланс",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@225.png",
+    "russian": "Баланс",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@250.png",
+    "russian": "Баланс",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@275.png",
+    "russian": "Баланс",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@300.png",
+    "russian": "Баланс",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@325.png",
+    "russian": "Баланс",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@350.png",
+    "russian": "Баланс",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@375.png",
+    "russian": "Баланс",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@400.png",
+    "russian": "Баланс",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@425.png",
+    "russian": "Баланс",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@450.png",
+    "russian": "Баланс",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadBalance_En_Light@475.png",
+    "russian": "Баланс",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadBalance_En_Light@500.png",
+    "russian": "Баланс",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadBalance_Light.png",
+    "russian": "Баланс",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadBalance_Light@125.png",
+    "russian": "Баланс",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadBalance_Light@150.png",
+    "russian": "Баланс",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadBalance_Light@175.png",
+    "russian": "Баланс",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadBalance_Light@200.png",
+    "russian": "Баланс",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadBalance_Light@225.png",
+    "russian": "Баланс",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadBalance_Light@250.png",
+    "russian": "Баланс",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadBalance_Light@275.png",
+    "russian": "Баланс",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadBalance_Light@300.png",
+    "russian": "Баланс",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadBalance_Light@325.png",
+    "russian": "Баланс",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadBalance_Light@350.png",
+    "russian": "Баланс",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadBalance_Light@375.png",
+    "russian": "Баланс",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadBalance_Light@400.png",
+    "russian": "Баланс",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadBalance_Light@425.png",
+    "russian": "Баланс",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadBalance_Light@450.png",
+    "russian": "Баланс",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadBalance_Light@475.png",
+    "russian": "Баланс",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadBalance_Light@500.png",
+    "russian": "Баланс",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadDeception_Dark.png",
+    "russian": "Турборежим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@125.png",
+    "russian": "Турборежим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@150.png",
+    "russian": "Турборежим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@175.png",
+    "russian": "Турборежим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@200.png",
+    "russian": "Турборежим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@225.png",
+    "russian": "Турборежим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@250.png",
+    "russian": "Турборежим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@275.png",
+    "russian": "Турборежим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@300.png",
+    "russian": "Турборежим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@325.png",
+    "russian": "Турборежим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@350.png",
+    "russian": "Турборежим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@375.png",
+    "russian": "Турборежим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@400.png",
+    "russian": "Турборежим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@425.png",
+    "russian": "Турборежим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@450.png",
+    "russian": "Турборежим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadDeception_Dark@475.png",
+    "russian": "Турборежим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadDeception_Dark@500.png",
+    "russian": "Турборежим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark.png",
+    "russian": "Турборежим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@125.png",
+    "russian": "Турборежим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@150.png",
+    "russian": "Турборежим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@175.png",
+    "russian": "Турборежим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@200.png",
+    "russian": "Турборежим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@225.png",
+    "russian": "Турборежим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@250.png",
+    "russian": "Турборежим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@275.png",
+    "russian": "Турборежим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@300.png",
+    "russian": "Турборежим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@325.png",
+    "russian": "Турборежим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@350.png",
+    "russian": "Турборежим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@375.png",
+    "russian": "Турборежим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@400.png",
+    "russian": "Турборежим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@425.png",
+    "russian": "Турборежим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@450.png",
+    "russian": "Турборежим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@475.png",
+    "russian": "Турборежим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadDeception_En_Dark@500.png",
+    "russian": "Турборежим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light.png",
+    "russian": "Турборежим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@125.png",
+    "russian": "Турборежим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@150.png",
+    "russian": "Турборежим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@175.png",
+    "russian": "Турборежим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@200.png",
+    "russian": "Турборежим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@225.png",
+    "russian": "Турборежим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@250.png",
+    "russian": "Турборежим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@275.png",
+    "russian": "Турборежим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@300.png",
+    "russian": "Турборежим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@325.png",
+    "russian": "Турборежим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@350.png",
+    "russian": "Турборежим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@375.png",
+    "russian": "Турборежим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@400.png",
+    "russian": "Турборежим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@425.png",
+    "russian": "Турборежим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@450.png",
+    "russian": "Турборежим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadDeception_En_Light@475.png",
+    "russian": "Турборежим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadDeception_En_Light@500.png",
+    "russian": "Турборежим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadDeception_Light.png",
+    "russian": "Турборежим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadDeception_Light@125.png",
+    "russian": "Турборежим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadDeception_Light@150.png",
+    "russian": "Турборежим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadDeception_Light@175.png",
+    "russian": "Турборежим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadDeception_Light@200.png",
+    "russian": "Турборежим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadDeception_Light@225.png",
+    "russian": "Турборежим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadDeception_Light@250.png",
+    "russian": "Турборежим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadDeception_Light@275.png",
+    "russian": "Турборежим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadDeception_Light@300.png",
+    "russian": "Турборежим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadDeception_Light@325.png",
+    "russian": "Турборежим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadDeception_Light@350.png",
+    "russian": "Турборежим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadDeception_Light@375.png",
+    "russian": "Турборежим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadDeception_Light@400.png",
+    "russian": "Турборежим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadDeception_Light@425.png",
+    "russian": "Турборежим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadDeception_Light@450.png",
+    "russian": "Турборежим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadDeception_Light@475.png",
+    "russian": "Турборежим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadDeception_Light@500.png",
+    "russian": "Турборежим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSilent_Dark.png",
+    "russian": "Тихий режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@125.png",
+    "russian": "Тихий режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@150.png",
+    "russian": "Тихий режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@175.png",
+    "russian": "Тихий режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@200.png",
+    "russian": "Тихий режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@225.png",
+    "russian": "Тихий режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@250.png",
+    "russian": "Тихий режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@275.png",
+    "russian": "Тихий режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@300.png",
+    "russian": "Тихий режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@325.png",
+    "russian": "Тихий режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@350.png",
+    "russian": "Тихий режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@375.png",
+    "russian": "Тихий режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@400.png",
+    "russian": "Тихий режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@425.png",
+    "russian": "Тихий режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@450.png",
+    "russian": "Тихий режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSilent_Dark@475.png",
+    "russian": "Тихий режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSilent_Dark@500.png",
+    "russian": "Тихий режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark.png",
+    "russian": "Тихий режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@125.png",
+    "russian": "Тихий режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@150.png",
+    "russian": "Тихий режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@175.png",
+    "russian": "Тихий режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@200.png",
+    "russian": "Тихий режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@225.png",
+    "russian": "Тихий режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@250.png",
+    "russian": "Тихий режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@275.png",
+    "russian": "Тихий режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@300.png",
+    "russian": "Тихий режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@325.png",
+    "russian": "Тихий режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@350.png",
+    "russian": "Тихий режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@375.png",
+    "russian": "Тихий режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@400.png",
+    "russian": "Тихий режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@425.png",
+    "russian": "Тихий режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@450.png",
+    "russian": "Тихий режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@475.png",
+    "russian": "Тихий режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSilent_En_Dark@500.png",
+    "russian": "Тихий режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light.png",
+    "russian": "Тихий режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@125.png",
+    "russian": "Тихий режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@150.png",
+    "russian": "Тихий режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@175.png",
+    "russian": "Тихий режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@200.png",
+    "russian": "Тихий режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@225.png",
+    "russian": "Тихий режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@250.png",
+    "russian": "Тихий режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@275.png",
+    "russian": "Тихий режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@300.png",
+    "russian": "Тихий режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@325.png",
+    "russian": "Тихий режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@350.png",
+    "russian": "Тихий режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@375.png",
+    "russian": "Тихий режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@400.png",
+    "russian": "Тихий режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@425.png",
+    "russian": "Тихий режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@450.png",
+    "russian": "Тихий режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSilent_En_Light@475.png",
+    "russian": "Тихий режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSilent_En_Light@500.png",
+    "russian": "Тихий режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSilent_Light.png",
+    "russian": "Тихий режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSilent_Light@125.png",
+    "russian": "Тихий режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSilent_Light@150.png",
+    "russian": "Тихий режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSilent_Light@175.png",
+    "russian": "Тихий режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSilent_Light@200.png",
+    "russian": "Тихий режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSilent_Light@225.png",
+    "russian": "Тихий режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSilent_Light@250.png",
+    "russian": "Тихий режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSilent_Light@275.png",
+    "russian": "Тихий режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSilent_Light@300.png",
+    "russian": "Тихий режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSilent_Light@325.png",
+    "russian": "Тихий режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSilent_Light@350.png",
+    "russian": "Тихий режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSilent_Light@375.png",
+    "russian": "Тихий режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSilent_Light@400.png",
+    "russian": "Тихий режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSilent_Light@425.png",
+    "russian": "Тихий режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSilent_Light@450.png",
+    "russian": "Тихий режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSilent_Light@475.png",
+    "russian": "Тихий режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSilent_Light@500.png",
+    "russian": "Тихий режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark.png",
+    "russian": "Быстрый режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@125.png",
+    "russian": "Быстрый режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@150.png",
+    "russian": "Быстрый режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@175.png",
+    "russian": "Быстрый режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@200.png",
+    "russian": "Быстрый режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@225.png",
+    "russian": "Быстрый режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@250.png",
+    "russian": "Быстрый режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@275.png",
+    "russian": "Быстрый режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@300.png",
+    "russian": "Быстрый режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@325.png",
+    "russian": "Быстрый режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@350.png",
+    "russian": "Быстрый режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@375.png",
+    "russian": "Быстрый режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@400.png",
+    "russian": "Быстрый режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@425.png",
+    "russian": "Быстрый режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@450.png",
+    "russian": "Быстрый режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSpeed_Dark@475.png",
+    "russian": "Быстрый режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSpeed_Dark@500.png",
+    "russian": "Быстрый режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark.png",
+    "russian": "Быстрый режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@125.png",
+    "russian": "Быстрый режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@150.png",
+    "russian": "Быстрый режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@175.png",
+    "russian": "Быстрый режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@200.png",
+    "russian": "Быстрый режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@225.png",
+    "russian": "Быстрый режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@250.png",
+    "russian": "Быстрый режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@275.png",
+    "russian": "Быстрый режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@300.png",
+    "russian": "Быстрый режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@325.png",
+    "russian": "Быстрый режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@350.png",
+    "russian": "Быстрый режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@375.png",
+    "russian": "Быстрый режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@400.png",
+    "russian": "Быстрый режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@425.png",
+    "russian": "Быстрый режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@450.png",
+    "russian": "Быстрый режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@475.png",
+    "russian": "Быстрый режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Dark@500.png",
+    "russian": "Быстрый режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light.png",
+    "russian": "Быстрый режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@125.png",
+    "russian": "Быстрый режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@150.png",
+    "russian": "Быстрый режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@175.png",
+    "russian": "Быстрый режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@200.png",
+    "russian": "Быстрый режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@225.png",
+    "russian": "Быстрый режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@250.png",
+    "russian": "Быстрый режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@275.png",
+    "russian": "Быстрый режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@300.png",
+    "russian": "Быстрый режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@325.png",
+    "russian": "Быстрый режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@350.png",
+    "russian": "Быстрый режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@375.png",
+    "russian": "Быстрый режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@400.png",
+    "russian": "Быстрый режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@425.png",
+    "russian": "Быстрый режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@450.png",
+    "russian": "Быстрый режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@475.png",
+    "russian": "Быстрый режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSpeed_En_Light@500.png",
+    "russian": "Быстрый режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadSpeed_Light.png",
+    "russian": "Быстрый режим",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@125.png",
+    "russian": "Быстрый режим",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@150.png",
+    "russian": "Быстрый режим",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@175.png",
+    "russian": "Быстрый режим",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@200.png",
+    "russian": "Быстрый режим",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@225.png",
+    "russian": "Быстрый режим",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@250.png",
+    "russian": "Быстрый режим",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@275.png",
+    "russian": "Быстрый режим",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@300.png",
+    "russian": "Быстрый режим",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@325.png",
+    "russian": "Быстрый режим",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@350.png",
+    "russian": "Быстрый режим",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@375.png",
+    "russian": "Быстрый режим",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@400.png",
+    "russian": "Быстрый режим",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@425.png",
+    "russian": "Быстрый режим",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@450.png",
+    "russian": "Быстрый режим",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadSpeed_Light@475.png",
+    "russian": "Быстрый режим",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadSpeed_Light@500.png",
+    "russian": "Быстрый режим",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark.png",
+    "russian": "Макс. скорость",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@125.png",
+    "russian": "Макс. скорость",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@150.png",
+    "russian": "Макс. скорость",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@175.png",
+    "russian": "Макс. скорость",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@200.png",
+    "russian": "Макс. скорость",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@225.png",
+    "russian": "Макс. скорость",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@250.png",
+    "russian": "Макс. скорость",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@275.png",
+    "russian": "Макс. скорость",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@300.png",
+    "russian": "Макс. скорость",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@325.png",
+    "russian": "Макс. скорость",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@350.png",
+    "russian": "Макс. скорость",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@375.png",
+    "russian": "Макс. скорость",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@400.png",
+    "russian": "Макс. скорость",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@425.png",
+    "russian": "Макс. скорость",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@450.png",
+    "russian": "Макс. скорость",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadTurbo_Dark@475.png",
+    "russian": "Макс. скорость",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadTurbo_Dark@500.png",
+    "russian": "Макс. скорость",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  },
+  {
+    "name": "WorkloadTurbo_Light.png",
+    "russian": "Макс. скорость",
+    "box": [
+      8,
+      118,
+      152,
+      145
+    ],
+    "fontPixels": 14.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@125.png",
+    "russian": "Макс. скорость",
+    "box": [
+      10,
+      148,
+      190,
+      181
+    ],
+    "fontPixels": 17.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@150.png",
+    "russian": "Макс. скорость",
+    "box": [
+      12,
+      177,
+      228,
+      218
+    ],
+    "fontPixels": 21.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@175.png",
+    "russian": "Макс. скорость",
+    "box": [
+      14,
+      206,
+      266,
+      254
+    ],
+    "fontPixels": 24.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@200.png",
+    "russian": "Макс. скорость",
+    "box": [
+      16,
+      236,
+      304,
+      290
+    ],
+    "fontPixels": 28.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@225.png",
+    "russian": "Макс. скорость",
+    "box": [
+      18,
+      266,
+      342,
+      326
+    ],
+    "fontPixels": 31.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@250.png",
+    "russian": "Макс. скорость",
+    "box": [
+      20,
+      295,
+      380,
+      362
+    ],
+    "fontPixels": 35.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@275.png",
+    "russian": "Макс. скорость",
+    "box": [
+      22,
+      324,
+      418,
+      399
+    ],
+    "fontPixels": 38.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@300.png",
+    "russian": "Макс. скорость",
+    "box": [
+      24,
+      354,
+      456,
+      435
+    ],
+    "fontPixels": 42.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@325.png",
+    "russian": "Макс. скорость",
+    "box": [
+      26,
+      384,
+      494,
+      471
+    ],
+    "fontPixels": 45.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@350.png",
+    "russian": "Макс. скорость",
+    "box": [
+      28,
+      413,
+      532,
+      508
+    ],
+    "fontPixels": 49.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@375.png",
+    "russian": "Макс. скорость",
+    "box": [
+      30,
+      442,
+      570,
+      544
+    ],
+    "fontPixels": 52.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@400.png",
+    "russian": "Макс. скорость",
+    "box": [
+      32,
+      472,
+      608,
+      580
+    ],
+    "fontPixels": 56.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@425.png",
+    "russian": "Макс. скорость",
+    "box": [
+      34,
+      502,
+      646,
+      616
+    ],
+    "fontPixels": 59.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@450.png",
+    "russian": "Макс. скорость",
+    "box": [
+      36,
+      531,
+      684,
+      652
+    ],
+    "fontPixels": 63.0
+  },
+  {
+    "name": "WorkloadTurbo_Light@475.png",
+    "russian": "Макс. скорость",
+    "box": [
+      38,
+      560,
+      722,
+      689
+    ],
+    "fontPixels": 66.5
+  },
+  {
+    "name": "WorkloadTurbo_Light@500.png",
+    "russian": "Макс. скорость",
+    "box": [
+      40,
+      590,
+      760,
+      725
+    ],
+    "fontPixels": 70.0
+  }
+]

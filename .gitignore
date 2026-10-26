@@ -1,0 +1,7 @@
+.xiaomi-pc-manager-ru/
+*.bin
+*.dll
+*.exe
+*.pri
+*.log
+*.tmp
