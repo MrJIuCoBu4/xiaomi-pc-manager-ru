@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "release": "1.7",
+  "release": "1.8",
   "appVersion": "5.8.1.130",
   "archive": "5.8.1.130.xpr.zip",
   "archiveSHA256": "D7B0497324BDF42303060B8F717ED3A0B7C8173756D303E91D8F9AB37D300B56",
@@ -9,26 +9,32 @@
       "path": "resources.pri",
       "component": "ui",
       "original": "4041A5E086B996BD8BA138CD1C717BDE309CE746D60ED8B1EFCFD50B43A92A38",
-      "patched": "83425456B7B1A9C03828B276A280C80FA5F75F9D18F157DC877C8D2BAF73313A",
-      "size": 2006544,
+      "patched": "DD640872E61A356D48450BC95BC7DD1C8FCA3233FDA08952DBD4014DD82A7F5B",
+      "size": 2006456,
       "variants": [
         {
           "source": "2CE068D04E93E6FBC5A5D47635A627318990B73F1F1BBCE83809D60016ADD218",
-          "archive": "ui-1.6.xpr.zip",
+          "archive": "privacy-1.8.xpr.zip",
           "entry": "resources.pri-2CE068D04E93E6FB.xpd",
-          "sha256": "89F15848C57A68D93A16D706F43D97FD304E7B0C222E3BB169D669CAC021CD35"
+          "sha256": "7A9422751AF48933084F111E92501E9480CB2F09028B7A9C92632AF6E35A62F1"
         },
         {
           "source": "4041A5E086B996BD8BA138CD1C717BDE309CE746D60ED8B1EFCFD50B43A92A38",
-          "archive": "ui-1.6.xpr.zip",
+          "archive": "privacy-1.8.xpr.zip",
           "entry": "resources.pri-4041A5E086B996BD.xpd",
-          "sha256": "3925F7EC29BBACAEB8A8AEA448E0CB0B5320217E03983BFDE4F6F5B280C42874"
+          "sha256": "4E4A7DF848710C0FFF5A4FD1A31F9CB37926C16A2579DF30915BE400F41E6214"
+        },
+        {
+          "source": "83425456B7B1A9C03828B276A280C80FA5F75F9D18F157DC877C8D2BAF73313A",
+          "archive": "privacy-1.8.xpr.zip",
+          "entry": "resources.pri-83425456B7B1A9C0.xpd",
+          "sha256": "3AF908E59BAAEB97B1BAC2C6E367D3ED2F2C5BA508A2F76E544BAA2A6DBCCDBF"
         },
         {
           "source": "9F31F3FF5B5109858776DB19C12432169145D0214792FD7133B50F730ED2CA92",
-          "archive": "ui-1.6.xpr.zip",
+          "archive": "privacy-1.8.xpr.zip",
           "entry": "resources.pri-9F31F3FF5B510985.xpd",
-          "sha256": "46B3EAEA0B48F79874A8E9524275E36FD3BC55459BDDC639F01C86D37513581E"
+          "sha256": "5C6495E70305B032FCCA9B1EDF3B2C641B7454881286562C559A8C5CFDA06952"
         }
       ]
     },
@@ -10690,12 +10696,43 @@
           "sha256": "1AD3212DC70CA76DB83309D407B12539D2E33181FDD4A73F1AE3A5DF98972052"
         }
       ]
+    },
+    {
+      "path": "Assets/privacy_content/privacy.txt",
+      "component": "ui",
+      "original": "70D9DCA4B476A2FA942C20586E4F3515095D03F8D8A5BC511E22D59CE7F7157F",
+      "patched": "53AA8CA4E38ABA15C853D39DE34DC3B9BC530ED3450A268331E34F7D88E7794E",
+      "size": 48995,
+      "variants": [
+        {
+          "source": "70D9DCA4B476A2FA942C20586E4F3515095D03F8D8A5BC511E22D59CE7F7157F",
+          "archive": "privacy-1.8.xpr.zip",
+          "entry": "Assets_privacy_content_privacy.txt-70D9DCA4B476A2FA.xpd",
+          "sha256": "3F96DCBD73D3312B081BDB307C2C0ECB0730AD8B7D26813F2B16D2B010A5849C"
+        }
+      ]
+    },
+    {
+      "path": "Assets/privacy_content/cancel_privacy.txt",
+      "component": "ui",
+      "original": "77F39E505E1AEE6ADFA2D79559654B3FEDF9761904884451FE26AFCBDA4EDF66",
+      "patched": "4D22D2D0338B4560344D2BD51EFC64FD89A1B14EE33DFB8543B63325EF262383",
+      "size": 1080,
+      "variants": [
+        {
+          "source": "77F39E505E1AEE6ADFA2D79559654B3FEDF9761904884451FE26AFCBDA4EDF66",
+          "archive": "privacy-1.8.xpr.zip",
+          "entry": "Assets_privacy_content_cancel_privacy.txt-77F39E505E1AEE6A.xpd",
+          "sha256": "B8C18BB811526D056103BF2DA71074AC24DE9C93DECD2143D13F21DC96C11189"
+        }
+      ]
     }
   ],
   "supplementalArchives": {
     "ui.xpr.zip": "AD285A1E845A21891B2FE5BAACA6BBE08D0F4B20D11A96B1CA83643BA1C33352",
     "ui-1.6.xpr.zip": "DD60771A93200EB169CBF269BA380815C1F70570012B7B06BADEF498EB135CEB",
-    "layout-1.7.xpr.zip": "B821F6336E2AADC9716D67EAC1DB7B744675B05DEFCC0CE8A6E968CA343B5890"
+    "layout-1.7.xpr.zip": "B821F6336E2AADC9716D67EAC1DB7B744675B05DEFCC0CE8A6E968CA343B5890",
+    "privacy-1.8.xpr.zip": "8A20FEE4505F074C7219A033EB7EF2FF64E1B2DAB59670CDDD534FCE4A92959C"
   },
   "retiredEntries": {
     "5.8.1.130.xpr.zip": [
@@ -10744,7 +10781,10 @@
       "dist_static_css_main.css-9B35863FCB316013.xpd",
       "dist_static_css_main.css-AF68A8C5261FC703.xpd",
       "dist_static_css_main.css-F0E001BDBC1BDCAB.xpd",
-      "dist_static_css_main.css-F8AA318AE4A11D5E.xpd"
+      "dist_static_css_main.css-F8AA318AE4A11D5E.xpd",
+      "resources.pri-2CE068D04E93E6FB.xpd",
+      "resources.pri-4041A5E086B996BD.xpd",
+      "resources.pri-9F31F3FF5B510985.xpd"
     ]
   }
 }

@@ -518,7 +518,7 @@ Resources/DiskSpacePercentageNotify/clean,立即清理,Очистить,Translat
 Resources/DiskSpacePercentageNotify/context,磁盘空间不足，建议立即清理,Недостаточно места на диске. Рекомендуем выполнить очистку.,Translated
 Resources/DiskSpacePercentageNotify/ignore,忽略,Пропустить,Translated
 Resources/DiskSpacePercentageNotify/title,磁盘空间不足{0}%,На диске осталось менее {0}% места,Translated
-Resources/DownLoadPrivacyPDF/Content,下载隐私政策PDF,Скачать политику конфиденциальности в PDF,Translated
+Resources/DownLoadPrivacyPDF/Content,下载隐私政策PDF,Скачать PDF,Translated
 Resources/EarphoneNotFound/Text,您还没有连接无线耳机,Беспроводные наушники ещё не подключены,Translated
 Resources/ExitMenu/Content,退出,Выход,Translated
 Resources/FirstPowerSavePopUp/cancel,取消({0}s),Отмена ({0} с),Translated
@@ -544,7 +544,7 @@ Resources/PowerRemovePopUp/content,狂暴模式需要在连接电源时使用，
 Resources/PowerRemovePopUp/title,电源已断开,Питание от сети отключено,Translated
 Resources/PowerRemovePopUpToIntelligence/content,狂暴模式需要在连接电源时使用，性能模式已切换至智能模式,Для турборежима требуется питание от сети. Включён интеллектуальный режим.,Translated
 Resources/PrivacyPageNetorkError/Text,网络异常，请稍后重试,Ошибка сети. Повторите попытку позже.,Translated
-Resources/PrivacyTitleTextBox/Text,小米电脑管家隐私政策,Политика конфиденциальности Xiaomi PC Manager,Translated
+Resources/PrivacyTitleTextBox/Text,小米电脑管家隐私政策,Конфиденциальность,Translated
 Resources/RecordAgainButton/Content,重新录制,Записать заново,Translated
 Resources/RecordCancelButton/Content,取消录制,Отменить запись,Translated
 Resources/RecordCancelUpdateButton/Content,取消,Отмена,Translated
