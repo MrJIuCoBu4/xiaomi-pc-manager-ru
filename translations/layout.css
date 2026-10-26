@@ -104,3 +104,10 @@
 
 /* RU v1.4.3: consistent breathing room between tool icons and headings. */
 .tools-box-wrap--OU0oj .card--Dg6xw .title--wUeVK{margin-top:.55rem}
+
+/* RU v1.4.4: cleanup result header and action button */
+.cleanup-header--T1BhP .summary-wrap--qxSEQ{gap:1rem;align-items:center}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp{flex:1;min-width:0}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp .main-title--3ddUp{font-size:1rem;line-height:1.35rem;overflow-wrap:break-word}
+.cleanup-header--T1BhP .summary-info-wrap--2bysp .sub-tip-info--Pdh1O{font-size:.65rem;line-height:1rem}
+.cleanup-header--T1BhP .btn--1xn9E{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;flex-shrink:0;width:auto;min-width:5.4rem;height:auto;min-height:2rem;padding:.4rem 1rem;white-space:nowrap;line-height:1.1rem}

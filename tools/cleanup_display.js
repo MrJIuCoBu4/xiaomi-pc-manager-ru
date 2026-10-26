@@ -1,0 +1,2 @@
+// Presentation-only helper embedded at the two cleanup JSX label sites.
+function xprCleanupLabel(value){const labels={"系统专清":"Система","浏览器专清":"Браузеры","软件专清":"Приложения","应用专清":"Приложения","临时文件":"Временные файлы","调试文件":"Файлы отладки","日志文件":"Журналы","回收站":"Корзина","谷歌浏览器":"Google Chrome","Chrome浏览器":"Google Chrome","Edge浏览器":"Microsoft Edge","IE缓存":"Кэш Internet Explorer","IE浏览器":"Internet Explorer","系统垃圾":"Системные файлы","浏览器缓存":"Кэш браузеров","软件缓存":"Кэш приложений"};return Object.prototype.hasOwnProperty.call(labels,value)?labels[value]:value}

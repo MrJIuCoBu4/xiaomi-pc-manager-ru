@@ -1,5 +1,5 @@
 """Hash-guarded file patching with an on-disk recovery journal (Python stdlib only)."""
-import hashlib, json, os, pathlib, shutil, tempfile, uuid, zipfile
+import contextlib, hashlib, json, os, pathlib, shutil, tempfile, uuid, zipfile
 from delta import apply, MAX_FILE_SIZE
 
 class PatchError(RuntimeError): pass
@@ -75,7 +75,7 @@ class Engine:
             elif h==f['original']:label='ORIGINAL'
             elif h in [v['source'] for v in f['variants']]:label='KNOWN_PREVIOUS'
             else:label='UNKNOWN'
-            if f['path'] in state['files'] and h==state['files'][f['path']]['after']:label='PATCHED_TRACKED'
+            if f['path'] in state['files'] and h==state['files'][f['path']]['after']:label='PATCHED_TRACKED' if h==f['patched'] else 'KNOWN_PREVIOUS_TRACKED'
             rows.append(dict(path=f['path'],component=f['component'],status=label))
         return dict(version=self.catalog['appVersion'],release=self.catalog['release'],pending=self.pending_path.exists(),locked=self.lock_path.exists(),tracked=len(state['files']),files=rows)
     def check_version(self):
@@ -104,10 +104,19 @@ class Engine:
                 raise PatchError('Insufficient free space for staging and backups')
             stage=safe_path(self.root,'.xiaomi-pc-manager-ru/stage-'+uuid.uuid4().hex);stage.mkdir()
             try:
-                with zipfile.ZipFile(archive) as z:
-                    if len(z.namelist())!=len(set(z.namelist())):raise PatchError('Duplicate archive entries')
+                with contextlib.ExitStack() as stack:
+                    allowed={self.catalog['archive']:self.catalog['archiveSHA256'],**self.catalog.get('supplementalArchives',{})}
+                    opened={}
                     for i,plan in enumerate(plans):
-                        variant=plan['variant'];info=z.getinfo(variant['entry'])
+                        variant=plan['variant'];archive_name=variant.get('archive',self.catalog['archive'])
+                        if archive_name not in allowed:raise PatchError('Undeclared delta archive')
+                        if archive_name not in opened:
+                            archive_path=safe_path(self.package,archive_name)
+                            if hash_file(archive_path)!=allowed[archive_name]:raise PatchError('Supplemental archive checksum mismatch')
+                            z=stack.enter_context(zipfile.ZipFile(archive_path))
+                            if len(z.namelist())!=len(set(z.namelist())):raise PatchError('Duplicate archive entries')
+                            opened[archive_name]=z
+                        z=opened[archive_name];info=z.getinfo(variant['entry'])
                         if info.file_size>MAX_FILE_SIZE:raise PatchError('Delta exceeds size limit')
                         delta=z.read(info)
                         if digest(delta)!=variant['sha256']:raise PatchError('Delta checksum mismatch')

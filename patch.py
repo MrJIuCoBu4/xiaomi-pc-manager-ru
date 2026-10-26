@@ -28,7 +28,7 @@ def stop_verified_osd(pid, expected):
     finally:k.CloseHandle(handle)
 
 def main():
-    p=argparse.ArgumentParser(description='Xiaomi PC Manager RU 1.4.3-rc.1')
+    p=argparse.ArgumentParser(description='Xiaomi PC Manager RU 1.4.4-rc.1')
     p.add_argument('action',choices=['status','install','restore','recover'])
     p.add_argument('--target',type=pathlib.Path,default=pathlib.Path(os.environ.get('ProgramFiles',r'C:\Program Files'))/'MI/XiaomiPCManager/5.8.1.130')
     p.add_argument('--camera-fix',action='store_true',help='Explicitly opt into modifying PcControlCenter.dll')

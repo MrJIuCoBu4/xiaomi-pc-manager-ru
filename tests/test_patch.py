@@ -74,4 +74,26 @@ class EngineTests(unittest.TestCase):
    with self.assertRaises(PatchError):self.e.install()
   finally:self.e.unlock()
 
+ def add_update(self):
+  c=json.loads((self.pkg/'catalog.json').read_text());new_targets={}
+  with zipfile.ZipFile(self.pkg/'update.zip','w') as z:
+   for f in c['files']:
+    if f['component']=='camera':continue
+    name=f['path'];result=self.patched[name]+b'-update';new_targets[name]=result;variants=[]
+    for i,source in enumerate([self.original[name],self.patched[name]]):
+     key=name.replace('/','_')+str(i);d=encode(source,result);z.writestr(key,d)
+     variants.append(dict(source=digest(source),entry=key,archive='update.zip',sha256=digest(d)))
+    f['variants']=variants;f['patched']=digest(result);f['size']=len(result)
+  c['supplementalArchives']={'update.zip':digest((self.pkg/'update.zip').read_bytes())}
+  json_write(self.pkg/'catalog.json',c);return Engine(self.root,self.pkg),new_targets
+ def test_upgrade_uses_supplement_and_retains_first_backup(self):
+  self.e.install();e,targets=self.add_update();self.assertEqual(e.install(),2)
+  for name,data in targets.items():self.assertEqual((self.root/name).read_bytes(),data)
+  self.assertEqual(e.restore(),2);self.check_original()
+ def test_corrupt_supplement_rejected_without_writing(self):
+  e,targets=self.add_update()
+  with (self.pkg/'update.zip').open('ab') as f:f.write(b'corrupt')
+  with self.assertRaisesRegex(PatchError,'checksum mismatch'):e.install()
+  self.check_original()
+
 if __name__=='__main__':unittest.main()
