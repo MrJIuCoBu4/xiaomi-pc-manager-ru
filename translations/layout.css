@@ -134,3 +134,8 @@
 .scan-end--2EiDQ .summary--2klA7 .main-title--3ddUp{font-size:1rem;line-height:1.35rem;overflow-wrap:break-word}
 .scan-end--2EiDQ .summary--2klA7 .one-key-optimize-btn--2AKZE{width:auto;min-width:6rem;height:auto;min-height:2rem;padding:.4rem .8rem;white-space:nowrap;line-height:1.1rem}
 @media(max-width:760px){.software-container--22jko .line-info--2VlXX{grid-template-columns:minmax(0,1fr)}.software-container--22jko .line-info--2VlXX .rename--2qunv{justify-self:end;margin-top:.3rem}}
+
+/* RU 1.7: expanded details align with the hardware value column.
+   icon 1.2rem + category 5rem + two gaps .6rem = 7.4rem. */
+.hardware-container--1lnCg .accordion-container--1yw3c .second-container--3kX8N{margin-left:calc(1.2rem + 5rem + .6rem + .6rem);min-width:0}
+.select-file--3rRpZ{box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;width:auto;min-width:6.4rem;min-height:1.9rem;padding:.35rem .8rem;line-height:1.1rem;white-space:nowrap;flex-shrink:0}

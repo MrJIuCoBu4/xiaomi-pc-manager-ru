@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "release": "1.6",
+  "release": "1.7",
   "appVersion": "5.8.1.130",
   "archive": "5.8.1.130.xpr.zip",
   "archiveSHA256": "D7B0497324BDF42303060B8F717ED3A0B7C8173756D303E91D8F9AB37D300B56",
@@ -126,62 +126,68 @@
       "path": "dist/static/css/main.css",
       "component": "ui",
       "original": "91FF731861CF7BDDC97B6769083BB47951890919193B66542E879E9DE0AD9437",
-      "patched": "21E25215FEE20FCF50275F09C3569080BE7BD13A94EAB73976D74FFB14189EDD",
-      "size": 762652,
+      "patched": "CEA7DE6303CBD7DE69C72DC9AA402A08530BD913F6ACD87E6647207FAF26DCFC",
+      "size": 763145,
       "variants": [
         {
           "source": "19C8A8AB9128340D39CA913F0827B16B7D22708A5DCDB46D7A7B79ADA1CEA8CA",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-19C8A8AB9128340D.xpd",
-          "sha256": "6C0CBAA36CF2A5A0C0BA3B084C53F42A19685B55DF81E150D9209F30A8283F93"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-19C8A8AB9128340D.xpd",
+          "sha256": "55C5DAE1005948A8947A80DBABDAF2FF125F5649DFA75DA4C724A0BEF908E550"
         },
         {
           "source": "21687E43AAC158FE71D500E2AEE4A94B22BA7761920F8CA0C1CA12A021BB511B",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-21687E43AAC158FE.xpd",
-          "sha256": "EACAB19BB7C2FD32BE218736B857C19637FEAFD68B750A2867D39164B6EB9434"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-21687E43AAC158FE.xpd",
+          "sha256": "8D4EC1D0D810146568C312C1F0E2FFB32E5BC74E210D5DB2A381B4E35F98D6BD"
+        },
+        {
+          "source": "21E25215FEE20FCF50275F09C3569080BE7BD13A94EAB73976D74FFB14189EDD",
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-21E25215FEE20FCF.xpd",
+          "sha256": "86FBF9067075C46E8EF3C0F482DB74774DA7EF7C36950B1E23A7CEF3EFF72708"
         },
         {
           "source": "45F433E0A8781AAD5B67856C342E6517E21CEF430D459723DFFA8FB173B9E195",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-45F433E0A8781AAD.xpd",
-          "sha256": "66D45F3F9130D07D593C8D93645461F03D58FD67E93128D34F0961BAFF453866"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-45F433E0A8781AAD.xpd",
+          "sha256": "6F27F6F86245980D3C0FD2900DDA46D0F7172637D82862B88B02C8D93E99EC70"
         },
         {
           "source": "7DAAD1C8FC70878A4A040762F5B6591497486184092885DFBDFE9918E525A383",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-7DAAD1C8FC70878A.xpd",
-          "sha256": "990C142A5E0BAB1CE90FA5758C5E5E0E8F8366CEFE1E78B14B680E6993A72033"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-7DAAD1C8FC70878A.xpd",
+          "sha256": "423258969D63A024D526650ABD285F7557161B5DDA13F812DB6B59F3319BDC9E"
         },
         {
           "source": "91FF731861CF7BDDC97B6769083BB47951890919193B66542E879E9DE0AD9437",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-91FF731861CF7BDD.xpd",
-          "sha256": "5259F979B98B015CA55BE11B42EE9675F0729950E18A0033EACDA031EA600FEE"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-91FF731861CF7BDD.xpd",
+          "sha256": "04027EA8AE42E245CB34E3DFABDED434123A3DED28469047408216942B2C99A5"
         },
         {
           "source": "9B35863FCB3160134E8FB7287BB75CA16875ABBBEFA92DC6224F8C125069B781",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-9B35863FCB316013.xpd",
-          "sha256": "9C7F1B0E38DFA03294DF6F0CC49ABD8467CDBBD75EAEF82A2FDBDC0BA019009E"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-9B35863FCB316013.xpd",
+          "sha256": "8BCABEFE65F2B2FDC5BE61B557E679A78BA251E1635C0DA892A1345FC20BD3BE"
         },
         {
           "source": "AF68A8C5261FC703F6592139D00A3EC895C6AE41F84A2996933190C88403DA4D",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-AF68A8C5261FC703.xpd",
-          "sha256": "364D74DA30AEE6C6042A49DC70F4448F753F4EC9AD48DFFA5AA0452683B00B4C"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-AF68A8C5261FC703.xpd",
+          "sha256": "324F83D62A08DFD8579BED370CE20C17E4FA4046FC73EEB66829B1DE2D741DCA"
         },
         {
           "source": "F0E001BDBC1BDCABFFEBDD130FFFBD43B005EDE50720999CF7F165412DC9969B",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-F0E001BDBC1BDCAB.xpd",
-          "sha256": "188E687949AA1E584993E5BDF22B63EBFB083B03AB305EEB3D8DE87A08735723"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-F0E001BDBC1BDCAB.xpd",
+          "sha256": "0D8E414997AF4CB45B3229E6B473C69779B77D20738E3CABC4A32B4AFC1D66AD"
         },
         {
           "source": "F8AA318AE4A11D5EA7DA990BB97D4F177A2B72E115BA4B5EE3269D98979A71BF",
-          "archive": "ui-1.6.xpr.zip",
-          "entry": "dist_static_css_main.css-F8AA318AE4A11D5E.xpd",
-          "sha256": "E69BCE52D25C45F99936388A96A1B456520EFEC79A279FFBEE1AD9DFF2540AF6"
+          "archive": "layout-1.7.xpr.zip",
+          "entry": "css-F8AA318AE4A11D5E.xpd",
+          "sha256": "A5E47117DCAB1F901260827EE91ED79A27DF23D9B123248F85D5887CDDD9F10E"
         }
       ]
     },
@@ -10688,7 +10694,8 @@
   ],
   "supplementalArchives": {
     "ui.xpr.zip": "AD285A1E845A21891B2FE5BAACA6BBE08D0F4B20D11A96B1CA83643BA1C33352",
-    "ui-1.6.xpr.zip": "DD60771A93200EB169CBF269BA380815C1F70570012B7B06BADEF498EB135CEB"
+    "ui-1.6.xpr.zip": "DD60771A93200EB169CBF269BA380815C1F70570012B7B06BADEF498EB135CEB",
+    "layout-1.7.xpr.zip": "B821F6336E2AADC9716D67EAC1DB7B744675B05DEFCC0CE8A6E968CA343B5890"
   },
   "retiredEntries": {
     "5.8.1.130.xpr.zip": [
@@ -10727,6 +10734,17 @@
       "js-E2F983D5179EE054.xpd",
       "js-EE73729B5018F16B.xpd",
       "js-FEE796D3675332AB.xpd"
+    ],
+    "ui-1.6.xpr.zip": [
+      "dist_static_css_main.css-19C8A8AB9128340D.xpd",
+      "dist_static_css_main.css-21687E43AAC158FE.xpd",
+      "dist_static_css_main.css-45F433E0A8781AAD.xpd",
+      "dist_static_css_main.css-7DAAD1C8FC70878A.xpd",
+      "dist_static_css_main.css-91FF731861CF7BDD.xpd",
+      "dist_static_css_main.css-9B35863FCB316013.xpd",
+      "dist_static_css_main.css-AF68A8C5261FC703.xpd",
+      "dist_static_css_main.css-F0E001BDBC1BDCAB.xpd",
+      "dist_static_css_main.css-F8AA318AE4A11D5E.xpd"
     ]
   }
 }
