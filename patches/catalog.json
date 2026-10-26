@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "release": "1.4.4-rc.1",
+  "release": "1.4.5-rc.1",
   "appVersion": "5.8.1.130",
   "archive": "5.8.1.130.xpr.zip",
   "archiveSHA256": "D7B0497324BDF42303060B8F717ED3A0B7C8173756D303E91D8F9AB37D300B56",
@@ -47,50 +47,56 @@
       "path": "dist/static/js/main.js",
       "component": "ui",
       "original": "5460B42E52E0498D95989AF0E214E915167FA9DA427EFA355BB4EC9045B8A5FF",
-      "patched": "9AF5CDB2B0944F2149DE588C385197FBB3F17116164B7EF8E780C341D75B7941",
-      "size": 2543509,
+      "patched": "9C815C89AB68313473BF950F4B8C6E13639697900322AE21FC9DEFA7B5E7BAD4",
+      "size": 2543604,
       "variants": [
         {
           "source": "29EA680F63676A5B3369EE1AB7C595EBCBDE0380FD290ED25E5236BCB7F86B31",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-29EA680F63676A5B.xpd",
-          "sha256": "530614F03CAA9FF8E298A3A42A11F2305B2FF5CBA68B83ED0B8C4686D9301BC8"
+          "sha256": "53275CC850A9B1EA07843BE6B83AF228B039FB89B88F501F13910D718EB6470F"
         },
         {
           "source": "5460B42E52E0498D95989AF0E214E915167FA9DA427EFA355BB4EC9045B8A5FF",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-5460B42E52E0498D.xpd",
-          "sha256": "EB0712B8DDA095545919970EE47155D28E48E09DC1F780CBFFE61A337C1ABCE1"
+          "sha256": "480D07609BBCC9D271FF7F2E5B75F7A156375402E9FF4BCF97DA360DCCDF3D8C"
         },
         {
           "source": "7C19BC5CB5EDE1AC2BC429898B5FED5D0E2DCF71920B0244662B41B361F1681D",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-7C19BC5CB5EDE1AC.xpd",
-          "sha256": "9932D028B1C54CB00570D9B817EAC69569218B8FA5D34D2238B74FA21257EB14"
+          "sha256": "6CFB10D973184648C6263C60B8E2A39D20FA28975624F90540E4FCFBB74687EF"
         },
         {
           "source": "7F95F429D877C09D06D28F2F7BCEBAF397332838870F0020646B1EFA90BB18D9",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-7F95F429D877C09D.xpd",
-          "sha256": "99F3084739CF1DB2FB766A3B6FBC912762333CFA5FAB7B01CE36278DF2B69E0F"
+          "sha256": "1518B0D4462C2E51F355210054AC2F2E14CA890D6DBBA211037D556680A184FF"
+        },
+        {
+          "source": "9AF5CDB2B0944F2149DE588C385197FBB3F17116164B7EF8E780C341D75B7941",
+          "archive": "cleanup-1.4.5.xpr.zip",
+          "entry": "js-9AF5CDB2B0944F21.xpd",
+          "sha256": "145C80FD8BA1A50109ECB7F66EA86B93C028F892515C478CC592438C81A82270"
         },
         {
           "source": "E2F983D5179EE054E2C9AD0CEC1D216387FC5049EA619F6AA045384B22C99BA1",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-E2F983D5179EE054.xpd",
-          "sha256": "4CC376A0DFCD7CD7964AEB4DDD7D5FC65961ABA279AEF69CAB8EBB3933FF0C6E"
+          "sha256": "CB651693ED996D454A15AA70EC623BCE667F6C62A5E013060AA90EAB029C6138"
         },
         {
           "source": "EE73729B5018F16B68E7A1F779150757622BB7BBE24421DB6D239BA9042136B6",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-EE73729B5018F16B.xpd",
-          "sha256": "1A0F84DB375083F6EA556967D55D9082C022DAB7D83D4ACD745AFD37EDB468E7"
+          "sha256": "5DF362F7DE49C715B89C6F7E821009F70CE9C4465D8F43627A8D6AAB834F3A47"
         },
         {
           "source": "FEE796D3675332ABEEA2FE43B10165EBD16484899C31B257EF5D6D1F2A5E4CA3",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "js-FEE796D3675332AB.xpd",
-          "sha256": "3CE5EC06317597D94BC60E8A000233755BB0AF4DB787C957F49A74B2D2808C84"
+          "sha256": "C2C2A2BBCEE2401B8F7C62D5C53DC886E314F40D37306F925E349FBF60752DE3"
         }
       ]
     },
@@ -103,49 +109,49 @@
       "variants": [
         {
           "source": "21687E43AAC158FE71D500E2AEE4A94B22BA7761920F8CA0C1CA12A021BB511B",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-21687E43AAC158FE.xpd",
           "sha256": "4961D31131D6726F5071FE704E880ED259EBAAFA8EF265F0362C8CFA2C1D99D0"
         },
         {
           "source": "45F433E0A8781AAD5B67856C342E6517E21CEF430D459723DFFA8FB173B9E195",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-45F433E0A8781AAD.xpd",
           "sha256": "9AEB13A1D51A851C329B6973BCFD3DC3FAFC7E8F323F8458C57AFE31D644A784"
         },
         {
           "source": "7DAAD1C8FC70878A4A040762F5B6591497486184092885DFBDFE9918E525A383",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-7DAAD1C8FC70878A.xpd",
           "sha256": "1DA18D8D45F8E6295AEE3513763565FBE462C854BF6CF80C847E77B08D16BBFA"
         },
         {
           "source": "91FF731861CF7BDDC97B6769083BB47951890919193B66542E879E9DE0AD9437",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-91FF731861CF7BDD.xpd",
           "sha256": "488F370F42B917DDDD00932AFC33D0CEE5BDD9D78CBF5E1E42E3D24610D96D86"
         },
         {
           "source": "9B35863FCB3160134E8FB7287BB75CA16875ABBBEFA92DC6224F8C125069B781",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-9B35863FCB316013.xpd",
           "sha256": "F93F74FB37FC6AF00CF912C39A0EF2EDBF4AFB7A696339F0F3DC90CDE3C57982"
         },
         {
           "source": "AF68A8C5261FC703F6592139D00A3EC895C6AE41F84A2996933190C88403DA4D",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-AF68A8C5261FC703.xpd",
           "sha256": "725FC82291D7C0893DED08C89DAD0AA3399ECDB376925CEE1DD0430A515FBF1F"
         },
         {
           "source": "F0E001BDBC1BDCABFFEBDD130FFFBD43B005EDE50720999CF7F165412DC9969B",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-F0E001BDBC1BDCAB.xpd",
           "sha256": "6D2763AFF4331274F354588C2714128C431FFD1BB1FC6AFD50AF6FC2B61ADBC8"
         },
         {
           "source": "F8AA318AE4A11D5EA7DA990BB97D4F177A2B72E115BA4B5EE3269D98979A71BF",
-          "archive": "cleanup-1.4.4.xpr.zip",
+          "archive": "cleanup-1.4.5.xpr.zip",
           "entry": "css-F8AA318AE4A11D5E.xpd",
           "sha256": "CF3353BEEAFEF98BDD0DBF8BC8E49451BE4056BA3617A0BAA8FA50F8126CF728"
         }
@@ -10653,7 +10659,7 @@
     }
   ],
   "supplementalArchives": {
-    "cleanup-1.4.4.xpr.zip": "1C5C99F25921DDC47C29740787334E4386E41A5F49CBDF81471B9206AFB1F40D"
+    "cleanup-1.4.5.xpr.zip": "AD285A1E845A21891B2FE5BAACA6BBE08D0F4B20D11A96B1CA83643BA1C33352"
   },
   "retiredEntries": {
     "5.8.1.130.xpr.zip": [
