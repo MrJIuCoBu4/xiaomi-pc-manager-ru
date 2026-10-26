@@ -1,0 +1,33 @@
+name: Ошибка перевода или интерфейса
+description: Непереведённый текст, обрезанная подпись, неверный отступ
+title: '[UI] '
+body:
+  - type: input
+    id: patch
+    attributes:
+      label: Версия патча
+      placeholder: 1.4.3-rc.1
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Версия Xiaomi PC Manager
+      placeholder: 5.8.1.130
+    validations:
+      required: true
+  - type: input
+    id: dpi
+    attributes:
+      label: Масштаб Windows и разрешение экрана
+  - type: textarea
+    id: details
+    attributes:
+      label: Где ошибка и как её увидеть
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Скриншот
+      description: Скройте серийный номер, имя аккаунта и личные данные. Не прикладывайте бинарники.

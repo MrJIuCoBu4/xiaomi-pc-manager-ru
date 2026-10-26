@@ -1,0 +1,25 @@
+name: Ошибка установки или отката
+description: Проверка хеша, блокировка файла или восстановление
+title: '[Installer] '
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Версии Windows, Xiaomi PC Manager и патча
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Команда и полный текст ошибки
+      description: Удалите личные пути и данные. Не прикладывайте файлы из backups или DLL/EXE.
+    validations:
+      required: true
+  - type: textarea
+    id: status
+    attributes:
+      label: Результат команды Status
+  - type: textarea
+    id: previous
+    attributes:
+      label: Были ли другие патчи или обновления Xiaomi?

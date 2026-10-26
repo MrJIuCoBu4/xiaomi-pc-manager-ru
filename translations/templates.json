@@ -1,0 +1,323 @@
+[
+  {
+    "id": 3,
+    "original": [
+      "取消(",
+      "s)"
+    ],
+    "translated": [
+      "Отмена (",
+      " с)"
+    ],
+    "expressions": [
+      "b"
+    ]
+  },
+  {
+    "id": 4,
+    "original": [
+      "正在扫描 ",
+      ""
+    ],
+    "translated": [
+      "Проверка: ",
+      ""
+    ],
+    "expressions": [
+      "n.file_path"
+    ]
+  },
+  {
+    "id": 5,
+    "original": [
+      "正在扫描",
+      ""
+    ],
+    "translated": [
+      "Сканирование ",
+      ""
+    ],
+    "expressions": [
+      "n.scan_type||\"\""
+    ]
+  },
+  {
+    "id": 6,
+    "original": [
+      "共 ",
+      "，已选择 ",
+      " 垃圾文件"
+    ],
+    "translated": [
+      "Всего: ",
+      ". Выбрано: ",
+      " ненужных файлов"
+    ],
+    "expressions": [
+      "Ra(t)",
+      "Ra(n)"
+    ]
+  },
+  {
+    "id": 7,
+    "original": [
+      "",
+      "英寸 ",
+      " × ",
+      ""
+    ],
+    "translated": [
+      "",
+      " дюйма; ",
+      " × ",
+      ""
+    ],
+    "expressions": [
+      "i.screen_size_inch",
+      "i.width",
+      "i.height"
+    ]
+  },
+  {
+    "id": 9,
+    "original": [
+      "",
+      "%（推荐）"
+    ],
+    "translated": [
+      "",
+      "% (рекомендуется)"
+    ],
+    "expressions": [
+      "t"
+    ]
+  },
+  {
+    "id": 15,
+    "original": [
+      "暂未向",
+      "提供驱动支持"
+    ],
+    "translated": [
+      "Драйверы для ",
+      " пока недоступны"
+    ],
+    "expressions": [
+      "n"
+    ]
+  },
+  {
+    "id": 16,
+    "original": [
+      "为",
+      "提供官方驱动支持"
+    ],
+    "translated": [
+      "Официальные драйверы для ",
+      ""
+    ],
+    "expressions": [
+      "n"
+    ]
+  },
+  {
+    "id": 31,
+    "original": [
+      "最新版本：",
+      ""
+    ],
+    "translated": [
+      "Новая версия: ",
+      ""
+    ],
+    "expressions": [
+      "e.latest_version"
+    ]
+  },
+  {
+    "id": 32,
+    "original": [
+      "正在扫描 ",
+      ""
+    ],
+    "translated": [
+      "Проверка: ",
+      ""
+    ],
+    "expressions": [
+      "t.driver_name"
+    ]
+  },
+  {
+    "id": 33,
+    "original": [
+      "共计",
+      "个问题需要优化，建议立即优化，否则系统可能出现未知问题"
+    ],
+    "translated": [
+      "Требуют исправления: ",
+      ". Рекомендуем устранить проблемы для стабильной работы системы."
+    ],
+    "expressions": [
+      "u.length"
+    ]
+  },
+  {
+    "id": 34,
+    "original": [
+      "",
+      "个驱动程序均正常，驱动状态良好，请继续保持！"
+    ],
+    "translated": [
+      "Исправных драйверов: ",
+      ". Всё в порядке."
+    ],
+    "expressions": [
+      "d.length"
+    ]
+  },
+  {
+    "id": 35,
+    "original": [
+      "",
+      "个驱动优化完成，即将安装BIOS驱动..."
+    ],
+    "translated": [
+      "Драйверов обработано: ",
+      ". Начнётся установка BIOS…"
+    ],
+    "expressions": [
+      "p"
+    ]
+  },
+  {
+    "id": 36,
+    "original": [
+      "",
+      "个驱动优化完成，",
+      "个成功，",
+      "个失败"
+    ],
+    "translated": [
+      "Драйверов обработано: ",
+      ". Успешно: ",
+      ". С ошибками: ",
+      ""
+    ],
+    "expressions": [
+      "p",
+      "d",
+      "f"
+    ]
+  },
+  {
+    "id": 37,
+    "original": [
+      "",
+      "个驱动优化完成"
+    ],
+    "translated": [
+      "Драйверов обработано: ",
+      ""
+    ],
+    "expressions": [
+      "p"
+    ]
+  },
+  {
+    "id": 41,
+    "original": [
+      "",
+      "英寸 ",
+      " × ",
+      ""
+    ],
+    "translated": [
+      "",
+      " дюйма; ",
+      " × ",
+      ""
+    ],
+    "expressions": [
+      "p.screen_size_inch",
+      "p.width",
+      "p.height"
+    ]
+  },
+  {
+    "id": 42,
+    "original": [
+      "",
+      "英寸"
+    ],
+    "translated": [
+      "",
+      " дюйма"
+    ],
+    "expressions": [
+      "p.screen_size_inch"
+    ]
+  },
+  {
+    "id": 43,
+    "original": [
+      "",
+      "复制"
+    ],
+    "translated": [
+      "",
+      " — скопировано"
+    ],
+    "expressions": [
+      "t"
+    ]
+  },
+  {
+    "id": 51,
+    "original": [
+      "已完成",
+      "个启动项优化"
+    ],
+    "translated": [
+      "Оптимизировано программ автозагрузки: ",
+      ""
+    ],
+    "expressions": [
+      "e"
+    ]
+  },
+  {
+    "id": 52,
+    "original": [
+      "检测到",
+      "个开机启动项，",
+      "个建议优化"
+    ],
+    "translated": [
+      "В автозагрузке: ",
+      ". Рекомендуем оптимизировать: ",
+      ""
+    ],
+    "expressions": [
+      "e",
+      "t"
+    ]
+  },
+  {
+    "id": 54,
+    "original": [
+      "",
+      "（",
+      "项）"
+    ],
+    "translated": [
+      "",
+      " (",
+      ")"
+    ],
+    "expressions": [
+      "ui[t]",
+      "e.length"
+    ]
+  }
+]
