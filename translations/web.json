@@ -2595,7 +2595,7 @@
     "id": 1399,
     "key": "mainTitle",
     "chinese": "主板",
-    "russian": "Материнская плата"
+    "russian": "Плата"
   },
   {
     "id": 1403,
@@ -2619,13 +2619,13 @@
     "id": 1409,
     "key": "mainTitle",
     "chinese": "显示器",
-    "russian": "Дисплей"
+    "russian": "Экран"
   },
   {
     "id": 1413,
     "key": "mainTitle",
     "chinese": "网卡",
-    "russian": "Сетевой адаптер"
+    "russian": "Сеть"
   },
   {
     "id": 1416,
@@ -2637,7 +2637,7 @@
     "id": 1417,
     "key": "mainTitle",
     "chinese": "声卡",
-    "russian": "Звуковая карта"
+    "russian": "Звук"
   },
   {
     "id": 1420,
@@ -3033,13 +3033,13 @@
     "id": 1523,
     "key": "title",
     "chinese": "操作系统",
-    "russian": "Операционная система"
+    "russian": "Система"
   },
   {
     "id": 1524,
     "key": "title",
     "chinese": "系统类型",
-    "russian": "Тип системы"
+    "russian": "Разрядность"
   },
   {
     "id": 1525,
@@ -3051,7 +3051,7 @@
     "id": 1526,
     "key": "title",
     "chinese": "安装日期",
-    "russian": "Дата установки"
+    "russian": "Установлена"
   },
   {
     "id": 1527,
@@ -4636,5 +4636,1848 @@
     "key": "",
     "chinese": "无垃圾文件，请继续保持",
     "russian": "Ненужных файлов нет"
+  },
+  {
+    "id": 1,
+    "key": "yearPlaceholder",
+    "chinese": "请选择年份",
+    "russian": "Выберите год"
+  },
+  {
+    "id": 2,
+    "key": "quarterPlaceholder",
+    "chinese": "请选择季度",
+    "russian": "Выберите квартал"
+  },
+  {
+    "id": 3,
+    "key": "monthPlaceholder",
+    "chinese": "请选择月份",
+    "russian": "Выберите месяц"
+  },
+  {
+    "id": 4,
+    "key": "weekPlaceholder",
+    "chinese": "请选择周",
+    "russian": "Выберите неделю"
+  },
+  {
+    "id": 5,
+    "key": "",
+    "chinese": "开始日期",
+    "russian": "Начальная дата"
+  },
+  {
+    "id": 6,
+    "key": "",
+    "chinese": "结束日期",
+    "russian": "Конечная дата"
+  },
+  {
+    "id": 7,
+    "key": "",
+    "chinese": "开始年份",
+    "russian": "Начальный год"
+  },
+  {
+    "id": 8,
+    "key": "",
+    "chinese": "结束年份",
+    "russian": "Конечный год"
+  },
+  {
+    "id": 9,
+    "key": "",
+    "chinese": "开始月份",
+    "russian": "Начальный месяц"
+  },
+  {
+    "id": 10,
+    "key": "",
+    "chinese": "结束月份",
+    "russian": "Конечный месяц"
+  },
+  {
+    "id": 11,
+    "key": "",
+    "chinese": "开始周",
+    "russian": "Начальная неделя"
+  },
+  {
+    "id": 12,
+    "key": "",
+    "chinese": "结束周",
+    "russian": "Конечная неделя"
+  },
+  {
+    "id": 15,
+    "key": "",
+    "chinese": "开始时间",
+    "russian": "Начальное время"
+  },
+  {
+    "id": 16,
+    "key": "",
+    "chinese": "结束时间",
+    "russian": "Конечное время"
+  },
+  {
+    "id": 17,
+    "key": "",
+    "chinese": "${label}不是一个有效的${type}",
+    "russian": "${label}: неверное значение (${type})"
+  },
+  {
+    "id": 19,
+    "key": "filterTitle",
+    "chinese": "筛选",
+    "russian": "Фильтр"
+  },
+  {
+    "id": 20,
+    "key": "filterConfirm",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 21,
+    "key": "filterReset",
+    "chinese": "重置",
+    "russian": "Сбросить"
+  },
+  {
+    "id": 22,
+    "key": "filterEmptyText",
+    "chinese": "无筛选项",
+    "russian": "Нет фильтров"
+  },
+  {
+    "id": 23,
+    "key": "selectAll",
+    "chinese": "全选当页",
+    "russian": "Выбрать страницу"
+  },
+  {
+    "id": 24,
+    "key": "selectInvert",
+    "chinese": "反选当页",
+    "russian": "Инвертировать выбор"
+  },
+  {
+    "id": 25,
+    "key": "selectNone",
+    "chinese": "清空所有",
+    "russian": "Снять выбор"
+  },
+  {
+    "id": 26,
+    "key": "selectionAll",
+    "chinese": "全选所有",
+    "russian": "Выбрать всё"
+  },
+  {
+    "id": 27,
+    "key": "sortTitle",
+    "chinese": "排序",
+    "russian": "Сортировка"
+  },
+  {
+    "id": 28,
+    "key": "expand",
+    "chinese": "展开行",
+    "russian": "Развернуть строку"
+  },
+  {
+    "id": 29,
+    "key": "collapse",
+    "chinese": "关闭行",
+    "russian": "Свернуть строку"
+  },
+  {
+    "id": 30,
+    "key": "triggerDesc",
+    "chinese": "点击降序",
+    "russian": "По убыванию"
+  },
+  {
+    "id": 31,
+    "key": "triggerAsc",
+    "chinese": "点击升序",
+    "russian": "По возрастанию"
+  },
+  {
+    "id": 32,
+    "key": "cancelSort",
+    "chinese": "取消排序",
+    "russian": "Сбросить сортировку"
+  },
+  {
+    "id": 33,
+    "key": "okText",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 35,
+    "key": "justOkText",
+    "chinese": "知道了",
+    "russian": "Понятно"
+  },
+  {
+    "id": 37,
+    "key": "okText",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 38,
+    "key": "searchPlaceholder",
+    "chinese": "请输入搜索内容",
+    "russian": "Введите запрос"
+  },
+  {
+    "id": 39,
+    "key": "itemUnit",
+    "chinese": "项",
+    "russian": "элемент"
+  },
+  {
+    "id": 40,
+    "key": "itemsUnit",
+    "chinese": "项",
+    "russian": "элементов"
+  },
+  {
+    "id": 41,
+    "key": "remove",
+    "chinese": "删除",
+    "russian": "Удалить"
+  },
+  {
+    "id": 42,
+    "key": "selectCurrent",
+    "chinese": "全选当页",
+    "russian": "Выбрать страницу"
+  },
+  {
+    "id": 43,
+    "key": "removeCurrent",
+    "chinese": "删除当页",
+    "russian": "Удалить со страницы"
+  },
+  {
+    "id": 44,
+    "key": "selectAll",
+    "chinese": "全选所有",
+    "russian": "Выбрать всё"
+  },
+  {
+    "id": 45,
+    "key": "removeAll",
+    "chinese": "删除全部",
+    "russian": "Удалить всё"
+  },
+  {
+    "id": 46,
+    "key": "selectInvert",
+    "chinese": "反选当页",
+    "russian": "Инвертировать выбор"
+  },
+  {
+    "id": 47,
+    "key": "uploading",
+    "chinese": "文件上传中",
+    "russian": "Загрузка файла"
+  },
+  {
+    "id": 48,
+    "key": "removeFile",
+    "chinese": "删除文件",
+    "russian": "Удалить файл"
+  },
+  {
+    "id": 49,
+    "key": "uploadError",
+    "chinese": "上传错误",
+    "russian": "Ошибка загрузки"
+  },
+  {
+    "id": 50,
+    "key": "previewFile",
+    "chinese": "预览文件",
+    "russian": "Предпросмотр файла"
+  },
+  {
+    "id": 51,
+    "key": "downloadFile",
+    "chinese": "下载文件",
+    "russian": "Скачать файл"
+  },
+  {
+    "id": 53,
+    "key": "icon",
+    "chinese": "图标",
+    "russian": "Значок"
+  },
+  {
+    "id": 54,
+    "key": "edit",
+    "chinese": "编辑",
+    "russian": "Изменить"
+  },
+  {
+    "id": 55,
+    "key": "copy",
+    "chinese": "复制",
+    "russian": "Копировать"
+  },
+  {
+    "id": 56,
+    "key": "copied",
+    "chinese": "复制成功",
+    "russian": "Скопировано"
+  },
+  {
+    "id": 57,
+    "key": "expand",
+    "chinese": "展开",
+    "russian": "Развернуть"
+  },
+  {
+    "id": 58,
+    "key": "back",
+    "chinese": "返回",
+    "russian": "Назад"
+  },
+  {
+    "id": 59,
+    "key": "optional",
+    "chinese": "（可选）",
+    "russian": "(необязательно)"
+  },
+  {
+    "id": 60,
+    "key": "default",
+    "chinese": "字段验证错误${label}",
+    "russian": "Ошибка поля ${label}"
+  },
+  {
+    "id": 61,
+    "key": "required",
+    "chinese": "请输入${label}",
+    "russian": "Заполните поле ${label}"
+  },
+  {
+    "id": 62,
+    "key": "enum",
+    "chinese": "${label}必须是其中一个[${enum}]",
+    "russian": "${label}: выберите значение из [${enum}]"
+  },
+  {
+    "id": 63,
+    "key": "whitespace",
+    "chinese": "${label}不能为空字符",
+    "russian": "${label}: пробелы недопустимы"
+  },
+  {
+    "id": 64,
+    "key": "format",
+    "chinese": "${label}日期格式无效",
+    "russian": "${label}: неверный формат даты"
+  },
+  {
+    "id": 65,
+    "key": "parse",
+    "chinese": "${label}不能转换为日期",
+    "russian": "${label}: не удалось распознать дату"
+  },
+  {
+    "id": 66,
+    "key": "invalid",
+    "chinese": "${label}是一个无效日期",
+    "russian": "${label}: неверная дата"
+  },
+  {
+    "id": 67,
+    "key": "len",
+    "chinese": "${label}须为${len}个字符",
+    "russian": "${label}: нужно ${len} символов"
+  },
+  {
+    "id": 68,
+    "key": "min",
+    "chinese": "${label}最少${min}个字符",
+    "russian": "${label}: минимум ${min} символов"
+  },
+  {
+    "id": 69,
+    "key": "max",
+    "chinese": "${label}最多${max}个字符",
+    "russian": "${label}: максимум ${max} символов"
+  },
+  {
+    "id": 70,
+    "key": "range",
+    "chinese": "${label}须在${min}-${max}字符之间",
+    "russian": "${label}: от ${min} до ${max} символов"
+  },
+  {
+    "id": 71,
+    "key": "len",
+    "chinese": "${label}必须等于${len}",
+    "russian": "${label}: значение должно быть ${len}"
+  },
+  {
+    "id": 72,
+    "key": "min",
+    "chinese": "${label}最小值为${min}",
+    "russian": "${label}: минимум ${min}"
+  },
+  {
+    "id": 73,
+    "key": "max",
+    "chinese": "${label}最大值为${max}",
+    "russian": "${label}: максимум ${max}"
+  },
+  {
+    "id": 74,
+    "key": "range",
+    "chinese": "${label}须在${min}-${max}之间",
+    "russian": "${label}: от ${min} до ${max}"
+  },
+  {
+    "id": 75,
+    "key": "len",
+    "chinese": "须为${len}个${label}",
+    "russian": "${label}: нужно ${len} элементов"
+  },
+  {
+    "id": 76,
+    "key": "min",
+    "chinese": "最少${min}个${label}",
+    "russian": "${label}: минимум ${min} элементов"
+  },
+  {
+    "id": 77,
+    "key": "max",
+    "chinese": "最多${max}个${label}",
+    "russian": "${label}: максимум ${max} элементов"
+  },
+  {
+    "id": 78,
+    "key": "range",
+    "chinese": "${label}数量须在${min}-${max}之间",
+    "russian": "${label}: от ${min} до ${max} элементов"
+  },
+  {
+    "id": 79,
+    "key": "mismatch",
+    "chinese": "${label}与模式不匹配${pattern}",
+    "russian": "${label}: неверный формат ${pattern}"
+  },
+  {
+    "id": 80,
+    "key": "preview",
+    "chinese": "预览",
+    "russian": "Предпросмотр"
+  },
+  {
+    "id": 81,
+    "key": "",
+    "chinese": "一月_二月_三月_四月_五月_六月_七月_八月_九月_十月_十一月_十二月",
+    "russian": "январь_февраль_март_апрель_май_июнь_июль_август_сентябрь_октябрь_ноябрь_декабрь"
+  },
+  {
+    "id": 82,
+    "key": "",
+    "chinese": "1月_2月_3月_4月_5月_6月_7月_8月_9月_10月_11月_12月",
+    "russian": "янв._февр._мар._апр._май_июн._июл._авг._сент._окт._нояб._дек."
+  },
+  {
+    "id": 83,
+    "key": "",
+    "chinese": "星期日_星期一_星期二_星期三_星期四_星期五_星期六",
+    "russian": "воскресенье_понедельник_вторник_среда_четверг_пятница_суббота"
+  },
+  {
+    "id": 84,
+    "key": "",
+    "chinese": "周日_周一_周二_周三_周四_周五_周六",
+    "russian": "вс_пн_вт_ср_чт_пт_сб"
+  },
+  {
+    "id": 85,
+    "key": "",
+    "chinese": "日_一_二_三_四_五_六",
+    "russian": "вс_пн_вт_ср_чт_пт_сб"
+  },
+  {
+    "id": 86,
+    "key": "LL",
+    "chinese": "YYYY年M月D日",
+    "russian": "DD.MM.YYYY"
+  },
+  {
+    "id": 87,
+    "key": "LLL",
+    "chinese": "YYYY年M月D日Ah点mm分",
+    "russian": "DD.MM.YYYY HH:mm"
+  },
+  {
+    "id": 88,
+    "key": "LLLL",
+    "chinese": "YYYY年M月D日ddddAh点mm分",
+    "russian": "dddd, DD.MM.YYYY HH:mm"
+  },
+  {
+    "id": 89,
+    "key": "ll",
+    "chinese": "YYYY年M月D日",
+    "russian": "DD.MM.YYYY"
+  },
+  {
+    "id": 90,
+    "key": "lll",
+    "chinese": "YYYY年M月D日 HH:mm",
+    "russian": "DD.MM.YYYY HH:mm"
+  },
+  {
+    "id": 91,
+    "key": "llll",
+    "chinese": "YYYY年M月D日dddd HH:mm",
+    "russian": "dddd, DD.MM.YYYY HH:mm"
+  },
+  {
+    "id": 92,
+    "key": "",
+    "chinese": "凌晨",
+    "russian": "ночи"
+  },
+  {
+    "id": 93,
+    "key": "",
+    "chinese": "早上",
+    "russian": "утра"
+  },
+  {
+    "id": 94,
+    "key": "",
+    "chinese": "上午",
+    "russian": "до полудня"
+  },
+  {
+    "id": 95,
+    "key": "",
+    "chinese": "下午",
+    "russian": "дня"
+  },
+  {
+    "id": 96,
+    "key": "",
+    "chinese": "晚上",
+    "russian": "вечера"
+  },
+  {
+    "id": 97,
+    "key": "",
+    "chinese": "凌晨",
+    "russian": "ночи"
+  },
+  {
+    "id": 98,
+    "key": "",
+    "chinese": "早上",
+    "russian": "утра"
+  },
+  {
+    "id": 99,
+    "key": "",
+    "chinese": "上午",
+    "russian": "до полудня"
+  },
+  {
+    "id": 100,
+    "key": "",
+    "chinese": "中午",
+    "russian": "полдня"
+  },
+  {
+    "id": 101,
+    "key": "",
+    "chinese": "下午",
+    "russian": "дня"
+  },
+  {
+    "id": 102,
+    "key": "",
+    "chinese": "晚上",
+    "russian": "вечера"
+  },
+  {
+    "id": 103,
+    "key": "sameDay",
+    "chinese": "[今天]LT",
+    "russian": "[Сегодня в] LT"
+  },
+  {
+    "id": 104,
+    "key": "nextDay",
+    "chinese": "[明天]LT",
+    "russian": "[Завтра в] LT"
+  },
+  {
+    "id": 105,
+    "key": "",
+    "chinese": "[下]dddLT",
+    "russian": "[Следующая неделя:] ddd LT"
+  },
+  {
+    "id": 106,
+    "key": "",
+    "chinese": "[本]dddLT",
+    "russian": "[В] ddd LT"
+  },
+  {
+    "id": 107,
+    "key": "lastDay",
+    "chinese": "[昨天]LT",
+    "russian": "[Вчера в] LT"
+  },
+  {
+    "id": 108,
+    "key": "",
+    "chinese": "[上]dddLT",
+    "russian": "[Прошлая неделя:] ddd LT"
+  },
+  {
+    "id": 109,
+    "key": "",
+    "chinese": "[本]dddLT",
+    "russian": "[В] ddd LT"
+  },
+  {
+    "id": 110,
+    "key": "",
+    "chinese": "日",
+    "russian": "-е"
+  },
+  {
+    "id": 111,
+    "key": "",
+    "chinese": "月",
+    "russian": "-й"
+  },
+  {
+    "id": 112,
+    "key": "",
+    "chinese": "周",
+    "russian": "-я"
+  },
+  {
+    "id": 113,
+    "key": "future",
+    "chinese": "%s后",
+    "russian": "через %s"
+  },
+  {
+    "id": 114,
+    "key": "past",
+    "chinese": "%s前",
+    "russian": "%s назад"
+  },
+  {
+    "id": 115,
+    "key": "s",
+    "chinese": "几秒",
+    "russian": "несколько секунд"
+  },
+  {
+    "id": 116,
+    "key": "ss",
+    "chinese": "%d 秒",
+    "russian": "%d сек."
+  },
+  {
+    "id": 117,
+    "key": "m",
+    "chinese": "1 分钟",
+    "russian": "1 мин."
+  },
+  {
+    "id": 118,
+    "key": "mm",
+    "chinese": "%d 分钟",
+    "russian": "%d мин."
+  },
+  {
+    "id": 119,
+    "key": "h",
+    "chinese": "1 小时",
+    "russian": "1 ч."
+  },
+  {
+    "id": 120,
+    "key": "hh",
+    "chinese": "%d 小时",
+    "russian": "%d ч."
+  },
+  {
+    "id": 121,
+    "key": "d",
+    "chinese": "1 天",
+    "russian": "1 дн."
+  },
+  {
+    "id": 122,
+    "key": "dd",
+    "chinese": "%d 天",
+    "russian": "%d дн."
+  },
+  {
+    "id": 123,
+    "key": "w",
+    "chinese": "1 周",
+    "russian": "1 нед."
+  },
+  {
+    "id": 124,
+    "key": "ww",
+    "chinese": "%d 周",
+    "russian": "%d нед."
+  },
+  {
+    "id": 125,
+    "key": "M",
+    "chinese": "1 个月",
+    "russian": "1 мес."
+  },
+  {
+    "id": 126,
+    "key": "MM",
+    "chinese": "%d 个月",
+    "russian": "%d мес."
+  },
+  {
+    "id": 127,
+    "key": "y",
+    "chinese": "1 年",
+    "russian": "1 г."
+  },
+  {
+    "id": 128,
+    "key": "yy",
+    "chinese": "%d 年",
+    "russian": "%d г."
+  },
+  {
+    "id": 129,
+    "key": "items_per_page",
+    "chinese": "条/页",
+    "russian": "на странице"
+  },
+  {
+    "id": 130,
+    "key": "jump_to",
+    "chinese": "跳至",
+    "russian": "Перейти"
+  },
+  {
+    "id": 131,
+    "key": "jump_to_confirm",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 132,
+    "key": "page",
+    "chinese": "页",
+    "russian": "Страница"
+  },
+  {
+    "id": 133,
+    "key": "prev_page",
+    "chinese": "上一页",
+    "russian": "Предыдущая страница"
+  },
+  {
+    "id": 134,
+    "key": "next_page",
+    "chinese": "下一页",
+    "russian": "Следующая страница"
+  },
+  {
+    "id": 135,
+    "key": "prev_5",
+    "chinese": "向前 5 页",
+    "russian": "Назад на 5 страниц"
+  },
+  {
+    "id": 136,
+    "key": "next_5",
+    "chinese": "向后 5 页",
+    "russian": "Вперёд на 5 страниц"
+  },
+  {
+    "id": 137,
+    "key": "prev_3",
+    "chinese": "向前 3 页",
+    "russian": "Назад на 3 страницы"
+  },
+  {
+    "id": 138,
+    "key": "next_3",
+    "chinese": "向后 3 页",
+    "russian": "Вперёд на 3 страницы"
+  },
+  {
+    "id": 139,
+    "key": "today",
+    "chinese": "今天",
+    "russian": "Сегодня"
+  },
+  {
+    "id": 140,
+    "key": "now",
+    "chinese": "此刻",
+    "russian": "Сейчас"
+  },
+  {
+    "id": 141,
+    "key": "backToToday",
+    "chinese": "返回今天",
+    "russian": "К сегодняшнему дню"
+  },
+  {
+    "id": 142,
+    "key": "ok",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 143,
+    "key": "timeSelect",
+    "chinese": "选择时间",
+    "russian": "Выбрать время"
+  },
+  {
+    "id": 144,
+    "key": "dateSelect",
+    "chinese": "选择日期",
+    "russian": "Выбрать дату"
+  },
+  {
+    "id": 145,
+    "key": "weekSelect",
+    "chinese": "选择周",
+    "russian": "Выбрать неделю"
+  },
+  {
+    "id": 146,
+    "key": "clear",
+    "chinese": "清除",
+    "russian": "Очистить"
+  },
+  {
+    "id": 147,
+    "key": "month",
+    "chinese": "月",
+    "russian": "Месяц"
+  },
+  {
+    "id": 148,
+    "key": "year",
+    "chinese": "年",
+    "russian": "Год"
+  },
+  {
+    "id": 149,
+    "key": "previousMonth",
+    "chinese": "上个月 (翻页上键)",
+    "russian": "Предыдущий месяц (Page Up)"
+  },
+  {
+    "id": 150,
+    "key": "nextMonth",
+    "chinese": "下个月 (翻页下键)",
+    "russian": "Следующий месяц (Page Down)"
+  },
+  {
+    "id": 151,
+    "key": "monthSelect",
+    "chinese": "选择月份",
+    "russian": "Выбрать месяц"
+  },
+  {
+    "id": 152,
+    "key": "yearSelect",
+    "chinese": "选择年份",
+    "russian": "Выбрать год"
+  },
+  {
+    "id": 153,
+    "key": "decadeSelect",
+    "chinese": "选择年代",
+    "russian": "Выбрать десятилетие"
+  },
+  {
+    "id": 154,
+    "key": "yearFormat",
+    "chinese": "YYYY年",
+    "russian": "YYYY"
+  },
+  {
+    "id": 155,
+    "key": "dayFormat",
+    "chinese": "D日",
+    "russian": "D"
+  },
+  {
+    "id": 156,
+    "key": "dateFormat",
+    "chinese": "YYYY年M月D日",
+    "russian": "DD.MM.YYYY"
+  },
+  {
+    "id": 157,
+    "key": "dateTimeFormat",
+    "chinese": "YYYY年M月D日 HH时mm分ss秒",
+    "russian": "DD.MM.YYYY HH:mm:ss"
+  },
+  {
+    "id": 158,
+    "key": "previousYear",
+    "chinese": "上一年 (Control键加左方向键)",
+    "russian": "Предыдущий год (Ctrl+←)"
+  },
+  {
+    "id": 159,
+    "key": "nextYear",
+    "chinese": "下一年 (Control键加右方向键)",
+    "russian": "Следующий год (Ctrl+→)"
+  },
+  {
+    "id": 160,
+    "key": "previousDecade",
+    "chinese": "上一年代",
+    "russian": "Предыдущее десятилетие"
+  },
+  {
+    "id": 161,
+    "key": "nextDecade",
+    "chinese": "下一年代",
+    "russian": "Следующее десятилетие"
+  },
+  {
+    "id": 162,
+    "key": "previousCentury",
+    "chinese": "上一世纪",
+    "russian": "Предыдущий век"
+  },
+  {
+    "id": 163,
+    "key": "nextCentury",
+    "chinese": "下一世纪",
+    "russian": "Следующий век"
+  },
+  {
+    "id": 164,
+    "key": "",
+    "chinese": "一",
+    "russian": "1"
+  },
+  {
+    "id": 165,
+    "key": "",
+    "chinese": "二",
+    "russian": "2"
+  },
+  {
+    "id": 166,
+    "key": "",
+    "chinese": "三",
+    "russian": "3"
+  },
+  {
+    "id": 167,
+    "key": "",
+    "chinese": "四",
+    "russian": "4"
+  },
+  {
+    "id": 168,
+    "key": "",
+    "chinese": "五",
+    "russian": "5"
+  },
+  {
+    "id": 169,
+    "key": "",
+    "chinese": "六",
+    "russian": "6"
+  },
+  {
+    "id": 170,
+    "key": "",
+    "chinese": "七",
+    "russian": "7"
+  },
+  {
+    "id": 171,
+    "key": "",
+    "chinese": "八",
+    "russian": "8"
+  },
+  {
+    "id": 172,
+    "key": "",
+    "chinese": "九",
+    "russian": "9"
+  },
+  {
+    "id": 174,
+    "key": "",
+    "chinese": "修复",
+    "russian": "Исправить"
+  },
+  {
+    "id": 175,
+    "key": "",
+    "chinese": "修复",
+    "russian": "Исправить"
+  },
+  {
+    "id": 176,
+    "key": "",
+    "chinese": "启用",
+    "russian": "Включить"
+  },
+  {
+    "id": 177,
+    "key": "",
+    "chinese": "更新",
+    "russian": "Обновить"
+  },
+  {
+    "id": 178,
+    "key": "",
+    "chinese": "下载中",
+    "russian": "Скачивание"
+  },
+  {
+    "id": 179,
+    "key": "",
+    "chinese": "启用中",
+    "russian": "Включение"
+  },
+  {
+    "id": 180,
+    "key": "",
+    "chinese": "修复中",
+    "russian": "Исправление"
+  },
+  {
+    "id": 181,
+    "key": "",
+    "chinese": "更新中",
+    "russian": "Обновление"
+  },
+  {
+    "id": 182,
+    "key": "",
+    "chinese": "获取失败",
+    "russian": "Не удалось получить данные"
+  },
+  {
+    "id": 183,
+    "key": "",
+    "chinese": "下载失败",
+    "russian": "Не удалось скачать"
+  },
+  {
+    "id": 184,
+    "key": "",
+    "chinese": "安装完成",
+    "russian": "Установка завершена"
+  },
+  {
+    "id": 185,
+    "key": "",
+    "chinese": "安装失败",
+    "russian": "Ошибка установки"
+  },
+  {
+    "id": 186,
+    "key": "",
+    "chinese": "正在取消",
+    "russian": "Отмена"
+  },
+  {
+    "id": 187,
+    "key": "",
+    "chinese": "取消完毕",
+    "russian": "Отменено"
+  },
+  {
+    "id": 188,
+    "key": "",
+    "chinese": "重启生效",
+    "russian": "После перезапуска"
+  },
+  {
+    "id": 189,
+    "key": "",
+    "chinese": "等待中",
+    "russian": "Ожидание"
+  },
+  {
+    "id": 190,
+    "key": "",
+    "chinese": "等待中",
+    "russian": "Ожидание"
+  },
+  {
+    "id": 191,
+    "key": "",
+    "chinese": "等待中",
+    "russian": "Ожидание"
+  },
+  {
+    "id": 192,
+    "key": "",
+    "chinese": "等待中",
+    "russian": "Ожидание"
+  },
+  {
+    "id": 193,
+    "key": "",
+    "chinese": "修复成功",
+    "russian": "Исправлено"
+  },
+  {
+    "id": 194,
+    "key": "",
+    "chinese": "修复失败",
+    "russian": "Не удалось исправить"
+  },
+  {
+    "id": 195,
+    "key": "",
+    "chinese": "启用成功",
+    "russian": "Включено"
+  },
+  {
+    "id": 196,
+    "key": "",
+    "chinese": "启用失败",
+    "russian": "Не удалось включить"
+  },
+  {
+    "id": 197,
+    "key": "",
+    "chinese": "更新成功",
+    "russian": "Обновлено"
+  },
+  {
+    "id": 198,
+    "key": "",
+    "chinese": "更新失败",
+    "russian": "Не удалось обновить"
+  },
+  {
+    "id": 232,
+    "chinese": "启动项",
+    "russian": "Автозагрузка"
+  },
+  {
+    "id": 233,
+    "chinese": "系统服务",
+    "russian": "Службы"
+  },
+  {
+    "id": 234,
+    "chinese": "计划任务",
+    "russian": "Задачи планировщика"
+  },
+  {
+    "id": 362,
+    "key": "hoverTip",
+    "chinese": "此模式下小米互传、耳机快连无法建立新的连接。此模式下OS电源模式将设置为最佳效能，键盘背光和屏幕背光会降低。",
+    "russian": "В этом режиме передача файлов и быстрое подключение наушников не создают новых подключений. Windows перейдёт в режим лучшей энергоэффективности, яркость экрана и подсветки клавиатуры снизится."
+  },
+  {
+    "id": 363,
+    "key": "hoverTip",
+    "chinese": "此模式下小米互传、耳机快连无法建立新的连接。此模式下OS电源模式将设置为最佳效能，屏幕背光会降低。",
+    "russian": "В этом режиме передача файлов и быстрое подключение наушников не создают новых подключений. Windows перейдёт в режим лучшей энергоэффективности, яркость экрана снизится."
+  },
+  {
+    "id": 416,
+    "key": "",
+    "chinese": "防烧屏轮播中",
+    "russian": "Чередование для защиты экрана"
+  },
+  {
+    "id": 417,
+    "key": "",
+    "chinese": "轮播中",
+    "russian": "Чередование"
+  },
+  {
+    "id": 422,
+    "key": "infoMessage",
+    "chinese": "设为桌面将关闭桌面防烧屏壁纸轮播",
+    "russian": "Обои отключат чередование для защиты экрана от выгорания"
+  },
+  {
+    "id": 423,
+    "key": "okText",
+    "chinese": "仍要设置",
+    "russian": "Всё равно применить"
+  },
+  {
+    "id": 425,
+    "key": "",
+    "chinese": "仍要开启",
+    "russian": "Всё равно включить"
+  },
+  {
+    "id": 426,
+    "key": "",
+    "chinese": "仍要关闭",
+    "russian": "Всё равно отключить"
+  },
+  {
+    "id": 431,
+    "key": "",
+    "chinese": "永远相信美好的事情即将发生",
+    "russian": "Верьте: впереди много хорошего"
+  },
+  {
+    "id": 432,
+    "key": "",
+    "chinese": "永远相信美好的事情即将发生",
+    "russian": "Верьте: впереди много хорошего"
+  },
+  {
+    "id": 433,
+    "key": "",
+    "chinese": "永远相信美好的事情即将发生",
+    "russian": "Верьте: впереди много хорошего"
+  },
+  {
+    "id": 437,
+    "key": "okText",
+    "chinese": "保存",
+    "russian": "Сохранить"
+  },
+  {
+    "id": 440,
+    "key": "infoMessage",
+    "chinese": "切换至图片屏保将关闭防烧屏功能",
+    "russian": "Заставка с изображением отключит защиту от выгорания"
+  },
+  {
+    "id": 467,
+    "key": "infoMessage",
+    "chinese": "关闭防烧屏屏保将缩短屏幕的使用寿命",
+    "russian": "Отключение защиты от выгорания может сократить срок службы экрана"
+  },
+  {
+    "id": 469,
+    "key": "subPageTitle",
+    "chinese": "屏保设置",
+    "russian": "Заставка"
+  },
+  {
+    "id": 470,
+    "key": "subPageTitle",
+    "chinese": "壁纸设置",
+    "russian": "Обои"
+  },
+  {
+    "id": 496,
+    "key": "okText",
+    "chinese": "去同意",
+    "russian": "Открыть соглашение"
+  },
+  {
+    "id": 499,
+    "key": "okText",
+    "chinese": "去同意",
+    "russian": "Открыть соглашение"
+  },
+  {
+    "id": 501,
+    "key": "okText",
+    "chinese": "去同意",
+    "russian": "Открыть соглашение"
+  },
+  {
+    "id": 503,
+    "key": "okText",
+    "chinese": "去同意",
+    "russian": "Открыть соглашение"
+  },
+  {
+    "id": 505,
+    "key": "okText",
+    "chinese": "修复",
+    "russian": "Исправить"
+  },
+  {
+    "id": 508,
+    "key": "okText",
+    "chinese": "修复",
+    "russian": "Исправить"
+  },
+  {
+    "id": 511,
+    "key": "okText",
+    "chinese": "去同意",
+    "russian": "Открыть соглашение"
+  },
+  {
+    "id": 527,
+    "key": "",
+    "chinese": "进行 bios 更新",
+    "russian": "Обновление BIOS"
+  },
+  {
+    "id": 533,
+    "key": "",
+    "chinese": "性能模式设置失败",
+    "russian": "Не удалось изменить режим работы"
+  },
+  {
+    "id": 633,
+    "chinese": "空闲时建立索引（默认）",
+    "russian": "При простое (по умолчанию)"
+  },
+  {
+    "id": 634,
+    "chinese": "文件更新，立即建立索引",
+    "russian": "При изменении файлов"
+  },
+  {
+    "id": 667,
+    "key": "disabledItemTip",
+    "chinese": "没有找到配置文件，该模式暂不可用。",
+    "russian": "Нет файла конфигурации. Режим недоступен."
+  },
+  {
+    "id": 693,
+    "key": "switchTitle",
+    "chinese": "背景隐藏",
+    "russian": "Скрыть фон"
+  },
+  {
+    "id": 694,
+    "key": "switchTitle",
+    "chinese": "背景模糊",
+    "russian": "Размыть фон"
+  },
+  {
+    "id": 695,
+    "key": "switchTitle",
+    "chinese": "曝光补偿",
+    "russian": "Коррекция экспозиции"
+  },
+  {
+    "id": 696,
+    "key": "switchTitle",
+    "chinese": "智能人脸取景",
+    "russian": "Автокадрирование лица"
+  },
+  {
+    "id": 697,
+    "key": "tipText",
+    "chinese": "开启后，将根据面部区域取景，显示人脸四周更窄的矩形区域，而不是摄像头捕捉的全部区域",
+    "russian": "Кадрировать область вокруг лица вместо полного изображения камеры"
+  },
+  {
+    "id": 698,
+    "key": "switchTitle",
+    "chinese": "美颜",
+    "russian": "Улучшение лица"
+  },
+  {
+    "id": 699,
+    "key": "tipText",
+    "chinese": "开启后，将启用磨皮、眼部除皱和眼袋去除等美颜特征",
+    "russian": "Сглаживать кожу, морщины вокруг глаз и мешки под глазами"
+  },
+  {
+    "id": 700,
+    "key": "switchTitle",
+    "chinese": "眼神接触",
+    "russian": "Зрительный контакт"
+  },
+  {
+    "id": 701,
+    "key": "tipText",
+    "chinese": "开启后，将建立更自然的眼神接触",
+    "russian": "Имитировать естественный зрительный контакт"
+  },
+  {
+    "id": 733,
+    "chinese": "低",
+    "russian": "Низкий"
+  },
+  {
+    "id": 734,
+    "chinese": "中",
+    "russian": "Средний"
+  },
+  {
+    "id": 735,
+    "chinese": "高",
+    "russian": "Высокий"
+  },
+  {
+    "id": 736,
+    "chinese": "低",
+    "russian": "Низкий"
+  },
+  {
+    "id": 737,
+    "chinese": "中",
+    "russian": "Средний"
+  },
+  {
+    "id": 738,
+    "chinese": "高",
+    "russian": "Высокий"
+  },
+  {
+    "id": 1064,
+    "key": "",
+    "chinese": "搜索内容不能为空",
+    "russian": "Введите поисковый запрос"
+  },
+  {
+    "id": 1146,
+    "key": "",
+    "chinese": "仅为小米笔记本提供驱动支持",
+    "russian": "Драйверы доступны только для ноутбуков Xiaomi"
+  },
+  {
+    "id": 1172,
+    "key": "msg",
+    "chinese": "开启消息通知，及时展示来自手机的通知",
+    "russian": "Включите уведомления, чтобы видеть сообщения с телефона"
+  },
+  {
+    "id": 1174,
+    "key": "msg",
+    "chinese": "开启相关服务进程，确保功能正常使用",
+    "russian": "Включите необходимые службы для работы функции"
+  },
+  {
+    "id": 1176,
+    "key": "msg",
+    "chinese": "开启耳机快连，快速连接附近蓝牙耳机",
+    "russian": "Включите быстрое подключение наушников поблизости"
+  },
+  {
+    "id": 1178,
+    "key": "msg",
+    "chinese": "省电模式下，小米互传、耳机快连无法建立新的连接。可以通过 Fn+K 切换模式或点击查看详情。",
+    "russian": "В энергосбережении передача файлов и быстрое подключение наушников не создают новых подключений. Смените режим через Fn+K или откройте сведения."
+  },
+  {
+    "id": 1191,
+    "key": "",
+    "chinese": "已充满",
+    "russian": "Полностью заряжена"
+  },
+  {
+    "id": 1192,
+    "key": "",
+    "chinese": "养护充电生效中",
+    "russian": "Бережная зарядка"
+  },
+  {
+    "id": 1193,
+    "key": "",
+    "chinese": "智能充电生效中",
+    "russian": "Умная зарядка"
+  },
+  {
+    "id": 1199,
+    "key": "",
+    "chinese": "极佳",
+    "russian": "Отличное"
+  },
+  {
+    "id": 1200,
+    "key": "",
+    "chinese": "良好",
+    "russian": "Хорошее"
+  },
+  {
+    "id": 1201,
+    "key": "",
+    "chinese": "正常",
+    "russian": "Нормальное"
+  },
+  {
+    "id": 1202,
+    "key": "",
+    "chinese": "一般",
+    "russian": "Удовлетворительное"
+  },
+  {
+    "id": 1203,
+    "key": "",
+    "chinese": "非原厂电池",
+    "russian": "Неоригинальная батарея"
+  },
+  {
+    "id": 1206,
+    "key": "statusTooltip",
+    "chinese": "检测到非原厂电池，为保证设备稳定性，已为您调整充电速度。",
+    "russian": "Обнаружена неоригинальная батарея. Скорость зарядки изменена для стабильной работы устройства."
+  },
+  {
+    "id": 1352,
+    "key": "",
+    "chinese": "驱动优化中，请稍候",
+    "russian": "Идёт оптимизация драйверов. Подождите."
+  },
+  {
+    "id": 1389,
+    "key": "",
+    "chinese": "文件上传中",
+    "russian": "Загрузка файла"
+  },
+  {
+    "id": 1426,
+    "key": "",
+    "chinese": "更新",
+    "russian": "Обновить"
+  },
+  {
+    "id": 1427,
+    "key": "",
+    "chinese": "录制",
+    "russian": "Записать"
+  },
+  {
+    "id": 1428,
+    "key": "",
+    "chinese": "声纹信息",
+    "russian": " голосовой профиль"
+  },
+  {
+    "id": 1452,
+    "key": "okText",
+    "chinese": "取消",
+    "russian": "Отмена"
+  },
+  {
+    "id": 1542,
+    "key": "",
+    "chinese": "建议保持",
+    "russian": "Оставить"
+  },
+  {
+    "id": 1543,
+    "key": "",
+    "chinese": "建议启用",
+    "russian": "Включить"
+  },
+  {
+    "id": 1544,
+    "key": "",
+    "chinese": "建议禁用",
+    "russian": "Отключить"
+  },
+  {
+    "id": 1545,
+    "key": "",
+    "chinese": "建议保持",
+    "russian": "Оставить"
+  },
+  {
+    "id": 1546,
+    "key": "",
+    "chinese": "建议保持",
+    "russian": "Оставить"
+  },
+  {
+    "id": 1112,
+    "key": "",
+    "chinese": "文件正在上传",
+    "russian": "Файл загружается"
+  },
+  {
+    "id": 1113,
+    "key": "",
+    "chinese": "反馈和日志正在提交，您可以继续提交反馈",
+    "russian": "Отзыв и журналы отправляются. Можно создать ещё один отзыв."
+  },
+  {
+    "id": 1386,
+    "key": "",
+    "chinese": "网络错误，上传图片失败",
+    "russian": "Ошибка сети. Не удалось загрузить изображение."
+  },
+  {
+    "id": 1387,
+    "key": "",
+    "chinese": "上传图片失败",
+    "russian": "Не удалось загрузить изображение"
+  },
+  {
+    "id": 1388,
+    "key": "",
+    "chinese": "一次最多上传三个文件",
+    "russian": "Можно загрузить не более трёх файлов"
+  },
+  {
+    "id": 1390,
+    "key": "",
+    "chinese": "不支持您上传的文件格式",
+    "russian": "Формат файла не поддерживается"
+  },
+  {
+    "id": 1540,
+    "key": "",
+    "chinese": "启动项状态修改失败，请稍后重试",
+    "russian": "Не удалось изменить автозагрузку. Повторите попытку позже."
+  },
+  {
+    "id": 1066,
+    "key": "today",
+    "chinese": "今天",
+    "russian": "Сегодня"
+  },
+  {
+    "id": 1067,
+    "key": "now",
+    "chinese": "此刻",
+    "russian": "Сейчас"
+  },
+  {
+    "id": 1068,
+    "key": "backToToday",
+    "chinese": "返回今天",
+    "russian": "К сегодняшнему дню"
+  },
+  {
+    "id": 1069,
+    "key": "ok",
+    "chinese": "确定",
+    "russian": "ОК"
+  },
+  {
+    "id": 1070,
+    "key": "timeSelect",
+    "chinese": "选择时间",
+    "russian": "Выбрать время"
+  },
+  {
+    "id": 1071,
+    "key": "dateSelect",
+    "chinese": "选择日期",
+    "russian": "Выбрать дату"
+  },
+  {
+    "id": 1072,
+    "key": "weekSelect",
+    "chinese": "选择周",
+    "russian": "Выбрать неделю"
+  },
+  {
+    "id": 1073,
+    "key": "clear",
+    "chinese": "清除",
+    "russian": "Очистить"
+  },
+  {
+    "id": 1074,
+    "key": "month",
+    "chinese": "月",
+    "russian": "Месяц"
+  },
+  {
+    "id": 1075,
+    "key": "year",
+    "chinese": "年",
+    "russian": "Год"
+  },
+  {
+    "id": 1076,
+    "key": "previousMonth",
+    "chinese": "上个月 (翻页上键)",
+    "russian": "Предыдущий месяц (Page Up)"
+  },
+  {
+    "id": 1077,
+    "key": "nextMonth",
+    "chinese": "下个月 (翻页下键)",
+    "russian": "Следующий месяц (Page Down)"
+  },
+  {
+    "id": 1078,
+    "key": "monthSelect",
+    "chinese": "选择月份",
+    "russian": "Выбрать месяц"
+  },
+  {
+    "id": 1079,
+    "key": "yearSelect",
+    "chinese": "选择年份",
+    "russian": "Выбрать год"
+  },
+  {
+    "id": 1080,
+    "key": "decadeSelect",
+    "chinese": "选择年代",
+    "russian": "Выбрать десятилетие"
+  },
+  {
+    "id": 1081,
+    "key": "yearFormat",
+    "chinese": "YYYY年",
+    "russian": "YYYY"
+  },
+  {
+    "id": 1082,
+    "key": "dayFormat",
+    "chinese": "D日",
+    "russian": "D"
+  },
+  {
+    "id": 1083,
+    "key": "dateFormat",
+    "chinese": "YYYY年M月D日",
+    "russian": "DD.MM.YYYY"
+  },
+  {
+    "id": 1084,
+    "key": "dateTimeFormat",
+    "chinese": "YYYY年M月D日 HH时mm分ss秒",
+    "russian": "DD.MM.YYYY HH:mm:ss"
+  },
+  {
+    "id": 1085,
+    "key": "previousYear",
+    "chinese": "上一年 (Control键加左方向键)",
+    "russian": "Предыдущий год (Ctrl+←)"
+  },
+  {
+    "id": 1086,
+    "key": "nextYear",
+    "chinese": "下一年 (Control键加右方向键)",
+    "russian": "Следующий год (Ctrl+→)"
+  },
+  {
+    "id": 1087,
+    "key": "previousDecade",
+    "chinese": "上一年代",
+    "russian": "Предыдущее десятилетие"
+  },
+  {
+    "id": 1088,
+    "key": "nextDecade",
+    "chinese": "下一年代",
+    "russian": "Следующее десятилетие"
+  },
+  {
+    "id": 1089,
+    "key": "previousCentury",
+    "chinese": "上一世纪",
+    "russian": "Предыдущий век"
+  },
+  {
+    "id": 1090,
+    "key": "nextCentury",
+    "chinese": "下一世纪",
+    "russian": "Следующий век"
+  },
+  {
+    "id": 1092,
+    "key": "",
+    "chinese": "开始时间",
+    "russian": "Начальное время"
+  },
+  {
+    "id": 1093,
+    "key": "",
+    "chinese": "结束时间",
+    "russian": "Конечное время"
+  },
+  {
+    "id": 1095,
+    "key": "yearPlaceholder",
+    "chinese": "请选择年份",
+    "russian": "Выберите год"
+  },
+  {
+    "id": 1096,
+    "key": "quarterPlaceholder",
+    "chinese": "请选择季度",
+    "russian": "Выберите квартал"
+  },
+  {
+    "id": 1097,
+    "key": "monthPlaceholder",
+    "chinese": "请选择月份",
+    "russian": "Выберите месяц"
+  },
+  {
+    "id": 1098,
+    "key": "weekPlaceholder",
+    "chinese": "请选择周",
+    "russian": "Выберите неделю"
+  },
+  {
+    "id": 1099,
+    "key": "",
+    "chinese": "开始日期",
+    "russian": "Начальная дата"
+  },
+  {
+    "id": 1100,
+    "key": "",
+    "chinese": "结束日期",
+    "russian": "Конечная дата"
+  },
+  {
+    "id": 1101,
+    "key": "",
+    "chinese": "开始年份",
+    "russian": "Начальный год"
+  },
+  {
+    "id": 1102,
+    "key": "",
+    "chinese": "结束年份",
+    "russian": "Конечный год"
+  },
+  {
+    "id": 1103,
+    "key": "",
+    "chinese": "开始月份",
+    "russian": "Начальный месяц"
+  },
+  {
+    "id": 1104,
+    "key": "",
+    "chinese": "结束月份",
+    "russian": "Конечный месяц"
+  },
+  {
+    "id": 1105,
+    "key": "",
+    "chinese": "开始周",
+    "russian": "Начальная неделя"
+  },
+  {
+    "id": 1106,
+    "key": "",
+    "chinese": "结束周",
+    "russian": "Конечная неделя"
   }
 ]
