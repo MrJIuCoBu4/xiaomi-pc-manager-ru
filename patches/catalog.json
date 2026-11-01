@@ -1,6 +1,6 @@
 {
-  "schema": 1,
-  "release": "1.8",
+  "schema": 2,
+  "release": "1.9",
   "appVersion": "5.8.1.130",
   "archive": "5.8.1.130.xpr.zip",
   "archiveSHA256": "D7B0497324BDF42303060B8F717ED3A0B7C8173756D303E91D8F9AB37D300B56",
@@ -10726,13 +10726,29 @@
           "sha256": "B8C18BB811526D056103BF2DA71074AC24DE9C93DECD2143D13F21DC96C11189"
         }
       ]
+    },
+    {
+      "path": "PcClipboard/ru/PcClipboard.resources.dll",
+      "component": "ui",
+      "original": "ABSENT",
+      "patched": "9BF0137EABE8CF7D2E6EB1EC758FB9EFFAB04956F385205B01AE7581F7A2B865",
+      "size": 4608,
+      "variants": [
+        {
+          "source": "ABSENT",
+          "archive": "clipboard-1.9.xpr.zip",
+          "entry": "clipboard-ru.xpd",
+          "sha256": "683E0D505BFB662DA39EAD1CC870A1A50A3C5BF4BA0F29D323E4D019D4BF00F8"
+        }
+      ]
     }
   ],
   "supplementalArchives": {
     "ui.xpr.zip": "AD285A1E845A21891B2FE5BAACA6BBE08D0F4B20D11A96B1CA83643BA1C33352",
     "ui-1.6.xpr.zip": "DD60771A93200EB169CBF269BA380815C1F70570012B7B06BADEF498EB135CEB",
     "layout-1.7.xpr.zip": "B821F6336E2AADC9716D67EAC1DB7B744675B05DEFCC0CE8A6E968CA343B5890",
-    "privacy-1.8.xpr.zip": "8A20FEE4505F074C7219A033EB7EF2FF64E1B2DAB59670CDDD534FCE4A92959C"
+    "privacy-1.8.xpr.zip": "8A20FEE4505F074C7219A033EB7EF2FF64E1B2DAB59670CDDD534FCE4A92959C",
+    "clipboard-1.9.xpr.zip": "EE400A0BA5CEF7CF070E0014301D0F30D3093A986CD759075A1122B2629C3E20"
   },
   "retiredEntries": {
     "5.8.1.130.xpr.zip": [
@@ -10786,5 +10802,11 @@
       "resources.pri-4041A5E086B996BD.xpd",
       "resources.pri-9F31F3FF5B510985.xpd"
     ]
-  }
+  },
+  "guards": [
+    {
+      "path": "PcClipboard/PcClipboard.exe",
+      "sha256": "5A5B49CFDD8E3B71495B1EC5DA41F27775D50BC63B0D30B0C89175F62822A1C7"
+    }
+  ]
 }
